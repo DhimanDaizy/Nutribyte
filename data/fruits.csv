@@ -1,0 +1,152 @@
+Food,Class,Ingredients,Calories,Protein,Carbs,Fat,Healthy
+Apple,vegan,"apple",52,0.3,13.8,0.2,Yes
+Banana,vegan,"banana",89,1.1,22.8,0.3,Yes
+Orange,vegan,"orange",47,0.9,11.8,0.1,Yes
+Papaya,vegan,"papaya",43,0.5,10.8,0.3,Yes
+Mango,vegan,"mango",60,0.8,15.0,0.4,Yes
+Guava,vegan,"guava",68,2.6,14.3,0.9,Yes
+Pineapple,vegan,"pineapple",50,0.5,13.1,0.1,Yes
+Watermelon,vegan,"watermelon",30,0.6,7.6,0.2,Yes
+Muskmelon,vegan,"muskmelon",34,0.8,8.2,0.2,Yes
+Pomegranate,vegan,"pomegranate",83,1.7,19.0,1.2,Yes
+Chikoo,vegan,"chikoo",83,0.4,20.0,1.1,Yes
+Lychee,vegan,"lychee",66,0.8,16.5,0.4,Yes
+Custard Apple,vegan,"custard apple",94,2.1,23.6,0.4,Yes
+Kiwi,vegan,"kiwi",61,1.1,15.0,0.5,Yes
+Dragon Fruit,vegan,"dragon fruit",60,1.2,13.0,0.4,Yes
+Blueberries,vegan,"blueberries",57,0.7,14.5,0.3,Yes
+Blackberries,vegan,"blackberries",43,1.4,10.2,0.5,Yes
+Strawberries,vegan,"strawberries",32,0.7,7.7,0.3,Yes
+Raspberries,vegan,"raspberries",52,1.2,12.0,0.7,Yes
+Grapes (Green),vegan,"green grapes",69,0.7,18.1,0.2,Yes
+Grapes (Black),vegan,"black grapes",70,0.6,17.0,0.3,Yes
+Pear,vegan,"pear",57,0.4,15.2,0.1,Yes
+Peach,vegan,"peach",39,0.9,9.5,0.3,Yes
+Plum,vegan,"plum",46,0.7,11.4,0.3,Yes
+Fig (Fresh),vegan,"fig",74,0.8,19.2,0.3,Yes
+Dates (Fresh),vegan,"fresh dates",82,0.9,21.5,0.1,Yes
+Tamarind (Raw),vegan,"tamarind",239,2.3,62.5,0.6,Yes
+Starfruit,vegan,"starfruit",31,1.0,6.7,0.3,Yes
+Jujube (Ber),vegan,"jujube",79,1.2,20.2,0.4,Yes
+Jamun (Java Plum),vegan,"jamun",60,0.7,14.0,0.3,Yes
+Amla (Indian Gooseberry),vegan,"amla",44,0.9,10.2,0.6,Yes
+Bael (Wood Apple),vegan,"bael fruit",137,1.8,31.8,0.3,Yes
+Rambutan,vegan,"rambutan",68,0.9,16.5,0.2,Yes
+Longan,vegan,"longan",60,1.0,15.0,0.1,Yes
+Mulberry,vegan,"mulberry",43,1.4,9.8,0.4,Yes
+Cape Gooseberry,vegan,"cape gooseberry",53,1.9,11.2,0.5,Yes
+Karonda,vegan,"karonda",42,0.5,11.0,0.3,Yes
+Hog Plum (Amra),vegan,"hog plum",50,1.1,12.0,0.2,Yes
+Wood Apple Pulp,vegan,"wood apple pulp",140,2.0,33.0,0.4,Yes
+Bel Sherbat,vegan,"bael pulp, water, jaggery (optional)",120,1.5,28.0,0.3,Yes
+Mosambi (Sweet Lime),vegan,"mosambi",43,0.8,9.3,0.2,Yes
+Sweet Tamarind,vegan,"sweet tamarind",239,2.3,62.5,0.6,Yes
+Soursop (Graviola),vegan,"soursop",66,1.0,16.8,0.3,Yes
+Langsat,vegan,"langsat",57,1.2,13.0,0.2,Yes
+Ambarella,vegan,"ambarella",56,0.5,14.0,0.1,Yes
+Loquat,vegan,"loquat",47,0.4,12.1,0.2,Yes
+Persimmon,vegan,"persimmon",70,0.6,18.6,0.2,Yes
+Sapodilla (Chikoo) Smoothie,vegan,"chikoo, almond milk",110,1.5,22.0,2.5,Yes
+Avocado,vegan,"avocado",160,2.0,8.5,14.7,Yes
+Avocado Smoothie,vegan,"avocado, banana, almond milk",190,2.8,20.5,12.0,Yes
+Coconut Water,vegan,"coconut water",19,0.7,3.7,0.1,Yes
+Tender Coconut,vegan,"tender coconut",45,0.9,10.4,0.4,Yes
+Raw Banana,vegan,"raw banana",89,1.0,23.0,0.3,Yes
+Banana Stem Juice,vegan,"banana stem, water",25,0.5,5.0,0.1,Yes
+Cucumber,vegan,"cucumber",15,0.6,3.6,0.1,Yes
+Tomato (Fruit),vegan,"tomato",18,0.9,3.9,0.2,Yes
+Cherry Tomatoes,vegan,"cherry tomatoes",20,0.8,4.0,0.2,Yes
+Raw Mango,vegan,"raw mango",60,0.8,15.0,0.2,Yes
+Ripe Mango Pulp,vegan,"ripe mango",70,0.9,17.0,0.3,Yes
+Stewed Apples,vegan,"apple, cinnamon",85,0.2,20.0,0.3,Yes
+Papaya Cubes,vegan,"papaya",43,0.5,11.0,0.3,Yes
+Guava Cubes,vegan,"guava",68,2.6,14.3,0.9,Yes
+Fruit Chaat,vegan,"banana, apple, guava, pomegranate, spices",110,1.8,24.5,0.8,Yes
+Melon Medley,vegan,"watermelon, muskmelon, honeydew",50,0.7,12.1,0.3,Yes
+Frozen Grapes,vegan,"grapes",70,0.6,17.0,0.2,Yes
+Lychee Cup,vegan,"lychee",66,0.8,16.5,0.4,Yes
+Cantaloupe Slices,vegan,"cantaloupe",34,0.8,8.2,0.2,Yes
+Honeydew Melon,vegan,"honeydew",36,0.6,9.0,0.1,Yes
+Jackfruit Pieces,vegan,"jackfruit",95,1.7,23.2,0.6,Yes
+Dehydrated Banana Chips (homemade),vegan,"banana, olive oil",130,1.1,26.5,4.5,Yes
+Fig Halves,vegan,"figs",74,0.8,19.0,0.3,Yes
+Mixed Berries,vegan,"strawberries, blueberries, raspberries",52,0.7,12.0,0.3,Yes
+Tutti Frutti (homemade),vegan,"papaya, sugar (light)",75,0.3,18.0,0.1,Yes
+Jamun Cubes,vegan,"jamun",60,0.6,15.5,0.2,Yes
+Chikoo Slices,vegan,"sapodilla",83,0.4,20.0,1.1,Yes
+Pear Wedges,vegan,"pear",57,0.4,15.0,0.1,Yes
+Pomegranate Pearls,vegan,"pomegranate",83,1.7,19.0,1.2,Yes
+Grapefruit Segments,vegan,"grapefruit",42,0.8,10.0,0.1,Yes
+Pineapple Rings,vegan,"pineapple",50,0.5,13.1,0.1,Yes
+Mango Salsa,vegan,"mango, tomato, onion, mint",65,1.0,14.0,0.2,Yes
+Kiwi Medallions,vegan,"kiwi",41,0.8,10.0,0.5,Yes
+Banana Date Smoothie,vegan,"banana, dates, almond milk",150,2.0,30.0,3.0,Yes
+Fruit Yogurt Bowl,veg,"mixed fruits, yogurt",140,4.2,20.0,4.0,Yes
+Chickoo Yogurt Bowl,veg,"sapodilla, yogurt",130,3.8,22.5,3.5,Yes
+Strawberry Raita,veg,"strawberries, yogurt, cumin",115,3.5,18.2,2.6,Yes
+Amla Candy (homemade),vegan,"amla, jaggery",100,0.6,23.5,0.3,Yes
+Custard Apple Pulp,vegan,"sitaphal",95,1.2,23.0,0.7,Yes
+Fruit Popsicle (homemade),vegan,"fruit puree, water",50,0.3,12.0,0.1,Yes
+Apple-Cinnamon Stew,vegan,"apple, cinnamon",90,0.4,20.0,0.2,Yes
+Dates,vegan,"dates",277,1.8,75.0,0.2,Yes
+Coconut Water,vegan,"tender coconut",46,0.2,9.0,0.1,Yes
+Amla Juice (unsweetened),vegan,"amla, water, cumin",35,0.6,7.5,0.2,Yes
+Watermelon Juice,vegan,"watermelon, mint",60,0.5,15.0,0.2,Yes
+Orange Juice (fresh),vegan,"oranges",85,1.4,20.8,0.2,Yes
+Beetroot-Carrot Juice,vegan,"beetroot, carrot, ginger",80,1.7,18.0,0.3,Yes
+Cucumber Mint Cooler,vegan,"cucumber, mint, lemon",40,0.5,9.0,0.1,Yes
+Lemon Ginger Water,vegan,"lemon, ginger, warm water",10,0.1,2.0,0.0,Yes
+Chikoo Smoothie,veg,"sapodilla, milk, cinnamon",150,4.0,28.0,3.5,Yes
+Banana Almond Shake,veg,"banana, almonds, milk",180,6.2,24.0,6.5,Yes
+Strawberry Lassi,veg,"strawberries, curd, honey",130,4.5,20.0,3.0,Yes
+Papaya Smoothie,veg,"papaya, yogurt, honey",125,3.2,22.0,2.5,Yes
+Apple-Cinnamon Smoothie,veg,"apple, cinnamon, milk",140,3.6,25.0,2.8,Yes
+Pineapple Mint Juice,vegan,"pineapple, mint",70,0.8,16.5,0.3,Yes
+Guava Juice,vegan,"guava, water, lemon",85,1.2,19.0,0.5,Yes
+Mixed Fruit Smoothie,veg,"banana, apple, mango, yogurt",155,5.0,28.0,2.9,Yes
+Pomegranate Juice,vegan,"pomegranate",96,1.6,24.0,0.9,Yes
+Kiwi Smoothie,veg,"kiwi, curd, honey",128,3.0,22.0,2.0,Yes
+Apple Spinach Juice,vegan,"apple, spinach, ginger",85,1.9,17.5,0.4,Yes
+Dates Milkshake,veg,"dates, milk",170,4.8,32.0,3.0,Yes
+Lychee Smoothie,veg,"lychee, yogurt",140,3.5,24.0,2.2,Yes
+Fig Milkshake,veg,"figs, milk",155,3.8,28.0,2.5,Yes
+Dry Fruit Smoothie,veg,"cashews, dates, milk",190,6.0,26.0,7.0,Yes
+Citrus Detox Water,vegan,"orange, lemon, cucumber",20,0.3,4.5,0.1,Yes
+Herbal Tulsi Tea (unsweetened),vegan,"tulsi leaves, water",5,0.0,0.5,0.0,Yes
+Aloe Vera Juice (unsweetened),vegan,"aloe vera pulp, water",30,0.2,6.0,0.1,Yes
+Jamun Juice,vegan,"jamun, water",75,0.6,18.0,0.3,Yes
+Mango Yogurt Smoothie,veg,"mango, yogurt",145,3.7,26.0,2.4,Yes
+Rose Sharbat (homemade),vegan,"rose petals, lemon",80,0.4,19.0,0.2,Yes
+Cucumber Lemon Juice,vegan,"cucumber, lemon",45,0.3,10.0,0.1,Yes
+Cold Fruit-Infused Water,vegan,"orange, mint, water",10,0.1,2.5,0.0,Yes
+Orange Juice,veg,"Fresh oranges",110,2,26,0,Yes
+Mango Juice,veg,"Ripe mango pulp, sugar, water",150,1,35,0,Yes
+Pineapple Juice,veg,"Pineapple, sugar, water",130,1,32,0,Yes
+Apple Juice,veg,"Apple, sugar, water",120,0.5,30,0,Yes
+Watermelon Juice,veg,"Watermelon, mint",80,1,20,0,Yes
+Pomegranate Juice,veg,"Pomegranate seeds",130,2,32,0,Yes
+Grape Juice,veg,"Black grapes, sugar, water",140,1,34,0,Yes
+Mosambi Juice,veg,"Sweet lime, sugar",110,1,28,0,Yes
+Guava Juice,veg,"Guava, sugar, lemon",130,1,29,0,Yes
+Kiwi Juice,veg,"Kiwi, sugar, lemon",100,1,25,0,Yes
+Papaya Juice,veg,"Papaya, sugar, lemon",120,1,28,0,Yes
+Lychee Juice,veg,"Lychee, sugar, lemon",125,1,29,0,Yes
+Mixed Fruit Juice,veg,"Seasonal fruits, sugar",160,2,38,1,Yes
+Fruit Chaat,veg,"Banana, apple, papaya, chaat masala",160,2,35,1,Yes
+Banana Chaat,veg,"Banana, black salt, chili, lemon",140,1,32,0,Yes
+Apple Chaat,veg,"Apple, black salt, chaat masala",120,0.5,28,0,Yes
+Mango Chaat,veg,"Raw mango, chili powder, salt",110,1,27,0,Yes
+Guava Chaat,veg,"Guava, chili, salt, lemon",130,1,30,0,Yes
+Papaya Chaat,veg,"Papaya, chaat masala, lemon juice",115,1,28,0,Yes
+Watermelon Chaat,veg,"Watermelon, black salt, pepper",90,1,21,0,Yes
+Pineapple Chaat,veg,"Pineapple, chili, chaat masala",125,1,30,0,Yes
+Strawberry Chaat,veg,"Strawberry, honey, chaat masala",100,1,24,0,Yes
+Kiwi Chaat,veg,"Kiwi, black salt, lemon juice",95,1,22,0,Yes
+Simple Fruit Salad,veg,"Apple, banana, papaya, orange",180,2,40,1,Yes
+Creamy Fruit Salad,veg,"Mixed fruits, cream, sugar",250,3,45,8,No
+Fruit Raita,veg,"Curd, pomegranate, apple, banana",160,4,30,4,Yes
+Tropical Fruit Salad,veg,"Mango, pineapple, papaya, kiwi",190,2,42,1,Yes
+Dry Fruit Salad,veg,"Apple, banana, raisins, almonds",220,4,35,8,Yes
+Exotic Fruit Salad,veg,"Dragon fruit, kiwi, strawberry, blueberry",200,3,36,2,Yes
+Melon Salad,veg,"Watermelon, muskmelon, mint",120,1,28,0,Yes
+Seasonal Fruit Bowl,veg,"Locally available fruits",180,2,38,1,Yes

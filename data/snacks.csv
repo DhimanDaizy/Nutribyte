@@ -1,0 +1,214 @@
+Food,Class,Ingredients,Calories,Protein,Carbs,Fat,Healthy
+Sprouted Moong Chaat,vegan,"sprouted moong, onion, tomato, lemon",186.2,12.1,28.4,2.3,Yes
+Ragi Khakhra,vegan,"ragi flour, sesame, ajwain, salt",144.5,3.7,22.1,3.5,Yes
+Oats Tikki,veg,"oats, grated carrot, coriander",165.8,4.5,23.3,5.1,Yes
+Grilled Paneer Sticks,veg,"paneer, pepper, herbs",198.6,17.4,5.8,11.6,Yes
+Egg White Sandwich,nonveg,"egg whites, whole wheat bread, lettuce",216.9,14.2,22.5,7.9,Yes
+Vegetable Dhokla,veg,"besan, spinach, green chili",164.3,6.1,21.6,5.2,Yes
+Cucumber Chana Salad,vegan,"chickpeas, cucumber, lemon",174.8,9.2,19.3,3.8,Yes
+Ragi Idli,vegan,"ragi flour, urad dal, salt",143.7,3.9,26.7,1.9,Yes
+Oats Upma,vegan,"oats, vegetables, mustard",187.4,5.4,27.5,5.1,Yes
+Paneer Lettuce Wraps,veg,"paneer, lettuce, spices",202.6,15.3,6.2,10.7,Yes
+Vegetable Steamed Momos,veg,"whole wheat flour, cabbage, carrot",162.8,4.3,22.1,3.7,Yes
+Boiled Egg Chaat,nonveg,"boiled egg, onion, chili, lemon",153.5,13.8,4.2,8.1,Yes
+Masala Corn,vegan,"boiled corn, spices, lemon",146.2,4.2,25.1,2.7,Yes
+Moong Dal Cheela,vegan,"moong dal, ginger, chili",189.6,10.1,19.6,6.8,Yes
+Besan Pancakes,vegan,"besan, tomato, coriander",178.3,7.4,20.5,7.1,Yes
+Cabbage Cutlet,vegan,"cabbage, potato, oats",162.4,4.5,23.8,4.2,Yes
+Carrot Beetroot Tikki,vegan,"beetroot, carrot, oats",149.7,3.8,20.2,3.4,Yes
+Ragi Cookies,veg,"ragi flour, jaggery, ghee",138.1,2.4,18.5,5.9,Yes
+Quinoa Poha,vegan,"quinoa, onion, mustard",182.5,6.9,21.4,5.6,Yes
+Rajgira Ladoo,veg,"amaranth, jaggery",135.7,2.3,23.7,2.6,Yes
+Sweet Potato Chaat,vegan,"sweet potato, chili powder, lemon",164.4,2.1,31.4,3.5,Yes
+Oats and Moong Cutlet,vegan,"moong dal, oats, spices",176.8,8.2,21.3,5.7,Yes
+Makhana Masala,vegan,"fox nuts, chili powder, olive oil",122.3,5.6,9.7,4.3,Yes
+Stuffed Multigrain Paratha,veg,"multigrain flour, veggies, curd",215.6,7.9,28.5,7.6,Yes
+Whole Wheat Veg Sandwich,veg,"whole wheat bread, cucumber, tomato",198.9,5.1,28.4,6.2,Yes
+Baked Samosa,veg,"whole wheat flour, peas, potato",211.2,4.9,29.6,5.5,Yes
+Grilled Tofu Cubes,vegan,"tofu, chili, pepper",188.4,14.5,4.3,10.2,Yes
+Ragi Dosa,vegan,"ragi flour, rice, urad dal",172.8,4.1,22.4,5.2,Yes
+Hummus with Cucumber Slices,vegan,"chickpeas, tahini, lemon",139.6,6.3,12.1,7.3,Yes
+Vegetable Appe,veg,"idli batter, chopped vegetables",148.5,4.2,20.3,4.5,Yes
+Sprouted Moong & Paneer Salad,veg,"sprouted moong, paneer, cucumber, lemon",172.3,14.1,12.8,5.2,Yes
+Masala Egg White Roll,nonveg,"egg whites, whole wheat wrap, pepper",158.7,18.3,14.2,3.1,Yes
+Oven-Roasted Chana,vegan,"black chickpeas, chili powder, cumin",132.5,9.8,18.1,2.7,Yes
+Baked Sweet Potato Fries,vegan,"sweet potato, olive oil, pepper",143.9,2.0,32.4,2.8,Yes
+Quinoa & Veg Cutlet,vegan,"quinoa, carrot, peas, herbs",165.1,5.6,25.0,4.2,Yes
+Ragi & Peanut Ladoo,veg,"ragi flour, peanuts, jaggery",189.2,6.7,20.3,9.1,Yes
+Cucumber Mint Raita,veg,"cucumber, yogurt, mint",78.4,4.2,6.5,3.1,Yes
+Methi Muthiya,veg,"fenugreek, wheat flour, yogurt",158.6,5.8,22.1,4.7,Yes
+Baked Oats & Banana Bars,veg,"oats, banana, flaxseed",192.7,4.5,35.2,5.3,Yes
+Chilled Moong Sprout Sundal,vegan,"sprouted moong, coconut, mustard",136.2,9.0,18.9,3.3,Yes
+Grilled Corn with Lime,vegan,"corn, lime, chili",132.1,4.0,28.5,1.9,Yes
+Besan & Spinach Fritters (Air-fried),veg,"besan, spinach, cumin",149.8,6.9,18.4,5.1,Yes
+Peanut Chikki (Minimal Jaggery),veg,"peanuts, jaggery",175.4,5.7,15.6,11.2,Yes
+Roasted Makhana Curry Powder,vegan,"fox nuts, turmeric, pepper",98.5,4.1,12.3,2.6,Yes
+Mint & Cucumber Sandwich,veg,"whole wheat bread, cucumber, mint yogurt",164.3,6.0,26.1,4.0,Yes
+Boiled Corn Chaat,vegan,"boiled corn, lemon, chaat masala",121.9,3.3,26.0,1.2,Yes
+Oats & Flaxseed Dosa,vegan,"oats, flaxseed, yogurt",153.2,5.9,22.8,4.9,Yes
+Chickpea Sundal,vegan,"boiled chickpeas, coconut, mustard",178.5,9.2,21.4,6.3,Yes
+Baked Vegetable Spring Roll,veg,"whole wheat wrapper, cabbage, carrots",142.6,4.0,19.5,4.7,Yes
+Coconut & Pea Salad,vegan,"grated coconut, peas, lime",132.4,5.1,17.2,5.9,Yes
+Tomato & Moong Dal Chaat,vegan,"moong dal, tomato, spices",169.7,10.4,24.9,3.2,Yes
+Oats & Yogurt Parfait,veg,"oats, yogurt, berries",162.1,6.7,25.3,3.8,Yes
+Ragi & Vegetable Muffin,veg,"ragi flour, zucchini, carrot",184.5,5.2,28.1,6.0,Yes
+Chickpea & Avocado Toast,vegan,"chickpeas, avocado, multigrain bread",201.3,7.8,24.5,9.1,Yes
+Spiced Buttermilk,veg,"curd, water, cumin, mint",56.8,3.1,5.2,2.3,Yes
+Fruit & Nut Chaat,vegan,"apple, pomegranate, almonds, lemon",117.5,2.6,28.4,3.2,Yes
+Crispy Soya Chunks,veg,"soya chunks, pepper, minimal oil",142.9,18.7,8.3,4.1,Yes
+Moong Dal Sprouts Wrap,vegan,"sprouts, lettuce, mint",158.0,9.3,18.7,3.9,Yes
+Spiced Pumpkin Seeds,vegan,"pumpkin seeds, paprika, salt",167.2,8.5,4.1,13.4,Yes
+Stuffed Moong Dal Pancake,vegan,"moong dal, spinach, ginger",172.6,11.1,18.9,4.5,Yes
+Baked Rajma Patty,vegan,"kidney beans, oats, onion, chili",168.3,8.2,24.6,3.6,Yes
+Vegetable Seviyan (low-oil),veg,"vermicelli, carrot, peas, mustard seeds",151.2,4.4,29.1,3.1,Yes
+Beetroot Cutlets (Air Fried),veg,"beetroot, oats, ginger",143.6,3.7,23.5,2.8,Yes
+Chickpea & Tomato Salad,vegan,"chickpeas, tomato, herbs",163.9,8.7,19.4,5.1,Yes
+Wheat & Ragi Paniyaram,veg,"wheat flour, ragi, curd",169.8,6.1,22.5,6.7,Yes
+Oats Upma,veg,"oats, vegetables, mustard seeds",153.2,4.8,22.6,4.2,Yes
+Carrot & Cucumber Sticks with Hummus,vegan,"chickpeas, sesame, olive oil",192.0,6.5,18.4,9.7,Yes
+Ragi & Almond Smoothie,veg,"ragi flour, almonds, milk",178.9,6.4,22.8,6.8,Yes
+Homemade Protein Balls,veg,"dates, oats, nuts",186.5,5.9,25.2,7.6,Yes
+Grilled Tofu Cubes,vegan,"tofu, lemon, pepper",162.1,14.2,6.3,9.1,Yes
+Murmura Chaat,vegan,"puffed rice, onion, tomato, chutney",122.6,2.3,26.5,1.8,Yes
+Amaranth Energy Bar,vegan,"amaranth seeds, jaggery, seeds",176.3,4.9,22.1,7.2,Yes
+Lauki Muthia (steamed),veg,"bottle gourd, besan, spices",144.8,5.6,18.0,3.4,Yes
+Sooji & Spinach Balls (Baked),veg,"semolina, spinach, herbs",158.0,4.2,21.3,5.6,Yes
+Vegetable Poha (low oil),veg,"flattened rice, veggies, turmeric",159.3,3.8,28.5,4.0,Yes
+Egg White Bhurji Wrap,nonveg,"egg whites, wrap, onion",174.5,15.9,11.4,5.8,Yes
+Millet Masala Idli,veg,"foxtail millet, curd, veggies",151.7,4.3,24.5,3.9,Yes
+Carrot & Walnut Muffin (low sugar),veg,"carrot, walnuts, atta",182.0,5.3,20.8,8.4,Yes
+Rajgira Chikki,veg,"amaranth, jaggery",166.8,3.9,19.6,6.3,Yes
+Banana & Peanut Butter Toast,veg,"whole wheat bread, banana, peanut butter",199.6,6.8,26.5,8.2,Yes
+Low-fat Paneer Toast,veg,"paneer, multigrain bread, herbs",178.1,12.7,16.2,7.3,Yes
+Sprouted Kala Chana Chaat,vegan,"black chickpea sprouts, lemon, chili",148.5,10.3,18.1,2.6,Yes
+Wheat Dhokla,veg,"whole wheat flour, curd, mustard",142.6,4.9,23.6,3.0,Yes
+Jowar Puff Snack,vegan,"jowar puffs, spice mix",123.2,3.7,19.1,2.9,Yes
+Bottle Gourd Paratha (low oil),veg,"bottle gourd, wheat flour",168.3,5.4,26.7,4.8,Yes
+Rava Appe,veg,"semolina, curd, veggies",159.4,4.2,22.9,5.0,Yes
+Ragi Nachni Chips (baked),vegan,"ragi, ajwain, salt",148.5,3.8,18.6,4.5,Yes
+Tandoori Mushroom Bites,veg,"mushrooms, curd, spice mix",138.2,5.9,8.4,7.6,Yes
+Sweet Potato Chaat,vegan,"boiled sweet potato, lemon, chaat masala",172.4,2.1,35.6,0.8,Yes
+Green Gram Dosa,vegan,"green gram, ginger, chilies",156.7,9.4,22.8,3.1,Yes
+Cucumber Chilla,vegan,"grated cucumber, besan, herbs",143.3,4.7,18.9,3.9,Yes
+Pumpkin Thepla,veg,"pumpkin, whole wheat flour",168.2,4.3,26.1,5.1,Yes
+Tofu Bhurji Toast,vegan,"tofu, multigrain bread, onion",178.9,12.5,19.6,6.3,Yes
+Rice Flour Crackers (baked),vegan,"rice flour, sesame, chili",138.7,2.8,23.7,4.1,Yes
+Spinach Oats Dhokla,veg,"oats, spinach, curd",152.4,5.6,20.2,4.7,Yes
+Ragi Almond Ladoo,veg,"ragi, almond, jaggery",167.2,4.5,18.5,7.2,Yes
+Zucchini Fritters (baked),veg,"zucchini, oats, herbs",146.1,3.7,20.3,4.4,Yes
+Corn & Methi Tikki,veg,"sweet corn, fenugreek, potato",174.6,4.8,24.1,5.2,Yes
+Protein-Rich Vegetable Roll,veg,"multigrain wrap, paneer, veggies",199.3,11.6,21.4,7.9,Yes
+Chia & Peanut Energy Bar,vegan,"chia seeds, peanuts, dates",178.2,5.2,21.6,7.1,Yes
+Besan Spinach Chilla,vegan,"gram flour, spinach, herbs",163.7,6.2,21.3,5.0,Yes
+Jowar Vegetable Idli,veg,"jowar, curd, grated veggies",149.5,5.0,23.0,3.3,Yes
+Sprouted Moth Beans Salad,vegan,"moth beans, onion, tomato",145.8,9.6,19.2,2.4,Yes
+Avocado Multigrain Toast,vegan,"avocado, multigrain bread",192.7,4.1,17.5,11.2,Yes
+Mixed Millet Laddoo,veg,"mixed millets, ghee, dry fruits",186.9,4.9,22.8,8.3,Yes
+Lapsi (Broken Wheat Snack),veg,"broken wheat, jaggery, cardamom",173.4,3.6,28.2,5.0,Yes
+Stuffed Bell Pepper (Air-fried),veg,"bell pepper, paneer, herbs",160.3,9.7,11.4,7.1,Yes
+Lettuce Paneer Wrap,veg,"lettuce, grilled paneer, herbs",178.6,12.4,7.8,9.9,Yes
+Masala Khichdi Balls (Baked),veg,"rice, moong dal, spices",162.0,5.6,23.4,4.2,Yes
+Homemade Millet Chips (Air fried),vegan,"millet flour, masala",153.8,3.5,19.2,5.1,Yes
+Ragi Dosa Roll with Coconut Chutney,veg,"ragi, curd, coconut, chilies",171.2,5.9,23.8,6.5,Yes
+Egg White & Spinach Muffin,nonveg,"egg whites, spinach, onion",158.4,13.6,6.9,5.3,Yes
+Cabbage & Mung Dal Pakora (Air Fried),veg,"cabbage, mung dal, spices",143.7,6.3,18.4,3.8,Yes
+Flaxseed Ladoo,vegan,"flaxseed, jaggery, oats",161.5,4.1,20.5,6.9,Yes
+Brown Rice & Sprouts Balls,veg,"brown rice, sprouts, spices",168.8,6.0,23.7,4.8,Yes
+Tofu Tikka Skewers,vegan,"tofu, spices, lemon",172.2,14.1,5.2,8.5,Yes
+Vegetable Ragi Pancake,veg,"ragi flour, curd, veggies",157.9,4.9,21.1,4.2,Yes
+Beetroot Hummus with Khakhra,vegan,"beetroot, chickpeas, sesame",188.6,6.2,19.8,9.4,Yes
+Rava Appe,veg,"semolina, curd, veggies",159.4,4.2,22.9,5.0,Yes
+Samosa,veg,"maida, potato, peas, spices, oil",262.0,5.0,32.0,12.0,No
+Onion Pakora,veg,"onion, gram flour, chili, oil",220.5,4.8,28.6,9.5,No
+Mirchi Bajji,veg,"green chili, gram flour, spices",198.2,4.1,22.3,8.9,No
+Aloo Tikki Chaat,veg,"potato, peas, spices, breadcrumbs",209.8,4.3,34.1,7.6,Yes
+Paneer Pakora,veg,"paneer, gram flour, oil",246.3,9.1,18.5,13.2,No
+Veg Cutlet,veg,"potato, carrot, peas, beans, breadcrumbs",189.7,5.3,25.8,6.1,Yes
+Bread Pakora,veg,"bread, gram flour, potato, oil",270.4,6.2,32.5,11.4,No
+Dhokla,veg,"gram flour, rice flour, curd, spices",160.3,6.4,20.1,6.2,Yes
+Khaman,veg,"gram flour, lemon, sugar, spices",179.9,7.0,22.0,7.0,Yes
+Khandvi,veg,"gram flour, yogurt, ginger, spices",150.5,7.2,18.2,5.1,Yes
+Fafda,veg,"gram flour, ajwain, turmeric, oil",219.8,6.1,28.2,8.4,No
+Thepla,veg,"wheat flour, methi leaves, spices",189.6,6.3,28.4,7.0,Yes
+Handvo,veg,"rice, lentils, lauki, sesame, spices",229.7,8.5,32.0,7.1,Yes
+Patra,veg,"colocasia leaves, gram flour, tamarind, jaggery",219.5,8.2,28.6,8.9,Yes
+Khakhra,veg,"wheat flour, oil, spices",89.8,3.1,18.5,2.0,Yes
+Methi Na Gota,veg,"gram flour, fenugreek leaves, spices",279.9,8.3,30.1,13.5,No
+Sev Khamani,veg,"gram flour, sev, chutney, spices",210.4,7.4,28.1,8.3,No
+Lilva Kachori,veg,"maida, green pigeon peas, spices",281.6,7.5,34.2,12.5,No
+Surati Locho,veg,"gram flour, green chili, oil, lemon",250.1,9.3,30.4,9.1,Yes
+Sev Usal,veg,"white peas, sev, onion, spices",329.8,11.1,44.9,12.2,Yes
+Masala Khichu,veg,"rice flour, green chili, cumin",179.4,4.0,28.0,4.0,Yes
+French Fries,veg,"potato, oil, salt",312.0,3.4,41.2,15.0,No
+Veg Burger,veg,"bun, potato patty, lettuce, cheese",298.2,8.1,36.2,12.4,No
+Paneer Sandwich,veg,"bread, paneer, capsicum, spices",244.3,9.0,28.5,9.5,Yes
+Cheese Pizza,veg,"pizza base, cheese, tomato sauce, oregano",285.9,11.2,33.6,10.5,No
+Veg Momos,veg,"maida, cabbage, carrot, onion, chili",142.7,4.8,20.2,4.0,Yes
+Spring Rolls,veg,"maida, cabbage, carrot, noodles, oil",236.2,6.2,28.4,10.1,No
+Masala Dosa,veg,"rice, urad dal, potato, onion, spices",220.5,6.4,35.2,6.2,Yes
+Medu Vada,veg,"urad dal, onion, green chili, oil",183.2,6.5,22.5,7.0,No
+Banana Chips,veg,"banana, coconut oil, salt",192.0,1.2,27.0,9.0,No
+Pav Bhaji,veg,"pav bread, mixed veggies, butter",340.4,8.5,42.2,14.5,No
+Sev Puri,veg,"puri, potato, onion, sev, chutneys",242.1,5.3,34.5,9.2,No
+Pani Puri,veg,"puri, potato, chickpeas, tamarind water",220.5,4.5,30.2,8.5,Yes
+Nachos,veg,"corn chips, cheese, salsa, jalapeno",312.4,7.8,42.5,13.6,No
+Tacos,veg,"tortilla, beans, lettuce, salsa, cheese",279.9,9.4,34.8,10.7,Yes
+Quesadilla,veg,"tortilla, cheese, veggies",289.5,10.0,32.5,11.5,No
+Garlic Bread,veg,"bread, butter, garlic, herbs",240.7,6.0,29.8,9.5,No
+Pasta Arrabbiata,veg,"pasta, tomato, chili, garlic, olive oil",268.2,8.4,41.0,7.2,Yes
+Urad Dal Papad,veg,"Urad dal flour, black pepper, salt",100,6,12,1,Yes
+Moong Dal Papad,veg,"Moong dal flour, spices, salt",95,6,11,1,Yes
+Chana Dal Papad,veg,"Chana dal flour, chili, salt",105,6,13,1,Yes
+Masala Papad,veg,"Urad papad, onion, tomato, chili, masala",150,5,18,4,No
+Jeera Papad,veg,"Urad dal flour, cumin seeds, salt",100,6,12,1,Yes
+Black Pepper Papad,veg,"Urad dal flour, black pepper, salt",110,6,13,1,Yes
+Garlic Papad,veg,"Urad dal flour, garlic, chili, salt",115,6,12,2,Yes
+Green Chili Papad,veg,"Urad dal flour, green chili, salt",120,6,13,2,Yes
+Red Chili Papad,veg,"Urad dal flour, red chili powder, salt",120,6,14,2,Yes
+Ajwain Papad,veg,"Urad dal flour, ajwain, salt",105,6,13,1,Yes
+Sago Papad (Sabudana),veg,"Sabudana, salt, cumin",90,1,20,0,Yes
+Rice Papad,veg,"Rice flour, chili, salt",95,2,21,0,Yes
+Potato Papad,veg,"Potato, rice flour, salt",120,2,26,1,Yes
+Sweet Potato Papad,veg,"Sweet potato, rice flour, chili, salt",130,2,28,1,Yes
+Ragi Papad,veg,"Ragi flour, spices, salt",100,3,22,0.5,Yes
+Jowar Papad,veg,"Jowar flour, chili, salt",95,3,21,0.5,Yes
+Bajra Papad,veg,"Bajra flour, chili, salt",100,3,20,1,Yes
+Multigrain Papad,veg,"Mix of lentils, spices, salt",110,6,14,1,Yes
+Palak Papad,veg,"Urad dal flour, spinach, chili",115,6,14,2,Yes
+Methi Papad,veg,"Urad dal flour, fenugreek leaves, chili",115,6,14,2,Yes
+Onion Papad,veg,"Urad dal flour, onion flakes, chili",120,5,14,2,No
+Tomato Papad,veg,"Urad dal flour, tomato powder, spices",115,5,15,2,No
+Punjabi Papad,veg,"Urad dal flour, black pepper, hing, chili",120,6,15,2,Yes
+South Indian Appalam,veg,"Urad dal flour, cumin, black pepper",110,6,14,1,Yes
+Gujarati Chorafali Papad,veg,"Chana dal flour, urad flour, spices",130,7,16,2,Yes
+Teekha Paani (Spicy),veg,"Green chili, mint, coriander, tamarind, masala",40,1,8,0,Yes
+Meetha Paani (Sweet),veg,"Tamarind, jaggery, dates, spices",60,1,15,0,Yes
+Lemon Mint Paani,veg,"Lemon juice, mint, black salt, chili",35,1,7,0,Yes
+Jeera Paani,veg,"Cumin, black salt, lemon, chili",30,1,6,0,Yes
+Garlic Paani,veg,"Garlic, chili, lemon, black salt",40,1,7,0,Yes
+Hing Paani,veg,"Asafoetida, tamarind, chili, black salt",35,1,6,0,Yes
+Fruit Flavored Paani,veg,"Pineapple juice, tamarind, mint",50,1,12,0,Yes
+Paani Poori Water,veg,"Raw mango, chili, mint, spices",55,1,13,0,Yes
+Boondi,veg,"Besan, chili, oil",55,10,19,9,No
+Sev,veg,"Besan, spices, oil",56,11,19,10,No
+Spaghetti,veg,"Durum wheat semolina, water",220,8,43,1,Yes
+Penne,veg,"Durum wheat semolina, water",210,7,42,1,Yes
+Macaroni,veg,"Durum wheat semolina, water",215,7,43,1,Yes
+Fusilli,veg,"Durum wheat semolina, water",210,7,42,1,Yes
+Farfalle (Bow-Tie Pasta),veg,"Durum wheat semolina, water",215,7,43,1,Yes
+Linguine,veg,"Durum wheat semolina, water",220,8,44,1,Yes
+Tagliatelle,veg,"Durum wheat semolina, egg",230,9,44,2,Yes
+Fettuccine,veg,"Durum wheat semolina, egg",230,9,45,2,Yes
+Lasagna Sheets,veg,"Durum wheat semolina, egg",220,8,43,2,Yes
+Ravioli,veg,"Pasta dough, ricotta cheese filling",260,10,38,5,No
+Tortellini,veg,"Pasta dough, cheese/meat filling",280,12,36,6,No
+Cannelloni,veg,"Pasta tubes, ricotta, spinach",290,11,38,7,No
+Orzo,veg,"Rice-shaped pasta, semolina",210,7,42,1,Yes
+Rigatoni,veg,"Durum wheat semolina, water",220,8,43,1,Yes
+Bucatini,veg,"Thick spaghetti-like pasta, semolina",230,8,45,1,Yes
+Gnocchi,veg,"Potato, flour, egg",250,7,52,1,No
+Conchiglie (Shell Pasta),veg,"Durum wheat semolina, water",220,7,44,1,Yes
+Orecchiette,veg,"Durum wheat semolina, water",220,7,44,1,Yes
+Pappardelle,veg,"Durum wheat semolina, egg",240,9,46,2,Yes
+Whole Wheat Pasta,veg,"Whole wheat flour, water",200,8,40,1,Yes
+Gluten-Free Pasta,veg,"Rice flour, corn flour",190,6,42,0,Yes

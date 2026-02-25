@@ -1,0 +1,38 @@
+{
+    "SS@gmail.com": {
+        "gender": "",
+        "bodytype": "",
+        "goal": "",
+        "currentWeight": "",
+        "targetWeight": "",
+        "reason": "",
+        "timeline": ""
+    },
+    "ritu@gmail.com": {
+        "gender": "",
+        "bodytype": "",
+        "goal": "",
+        "currentWeight": "",
+        "targetWeight": "",
+        "reason": "",
+        "timeline": ""
+    },
+    "rishika@gmail.com": {
+        "gender": "",
+        "bodytype": "",
+        "goal": "",
+        "currentWeight": "",
+        "targetWeight": "",
+        "reason": "",
+        "timeline": ""
+    },
+    "dd@gmail.com": {
+        "gender": "Female",
+        "bodytype": "Ectomorph (Lean)",
+        "goal": "Lose Weight",
+        "currentWeight": "",
+        "targetWeight": "",
+        "reason": "",
+        "timeline": ""
+    }
+}

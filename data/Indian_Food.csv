@@ -1,0 +1,1105 @@
+Food,Class,Ingredients,Calories,Protein,Carbs,Fat,Healthy
+Palak Paneer,Vegetarian,"Spinach, Paneer, Spices,290",12,14,22,12,Yes
+Green Chili Chutney,veg,"Green chili, garlic, lemon, salt",20,0.8,3,0.1,Yes
+Mint Chutney,veg,"Mint leaves, coriander, green chili, lemon, salt",25,1,5,0.3,Yes
+Green Chilli Salad,Veg,"Green chilli, Lemon, Salt",30,1,6,0,Yes
+Coriander Chutney,veg,"Coriander leaves, green chili, lemon, ginger",30,1.5,6,0.4,Yes
+Radish Chutney,veg,"Radish, green chili, coriander, ginger",35,1.2,6,0.2,Yes
+Lauki Chutney,veg,"Bottle gourd, chili, tamarind, garlic",35,1,7,0.2,Yes
+Tomato Salad,Veg,"Tomato, Lemon, Black salt",40,1,9,0,Yes
+Tomato Chutney,veg,"Tomato, onion, garlic, red chili, oil",40,1,6,2,Yes
+Gooseberry (Amla) Chutney,veg,"Amla, green chili, coriander, salt",40,1,7,0.5,Yes
+Cabbage Chutney,veg,"Cabbage, tamarind, chili, garlic",40,1,6,0.5,Yes
+Pudina-Curd Chutney,veg,"Mint, curd, green chili, cumin",40,2,5,1,Yes
+Cucumber Salad,Veg,"Cucumber, Lemon, Salt",45,1,10,0,Yes
+Coconut Water,Veg,Coconut water,45,1,9,0,Yes
+Curry Leaves Chutney,veg,"Curry leaves, tamarind, red chili, garlic",45,2,6,1.5,Yes
+Spinach Chutney,veg,"Spinach, green chili, tamarind, garlic",45,2,8,0.5,Yes
+Onion Salad,Veg,"Onion slices, Lemon, Salt",50,1,12,0,Yes
+Mint Chutney,Veg,"Mint, Coriander, Green chilli, Lemon",50,1,8,1,Yes
+Ginger Chutney,veg,"Ginger, tamarind, jaggery, red chili",50,1,8,1,Yes
+Raw Mango Chutney,veg,"Raw mango, green chili, jaggery, coriander",50,1,11,0.3,Yes
+Capsicum Chutney,veg,"Capsicum, onion, tamarind, chili",50,1,8,1,Yes
+Onion Chutney,veg,"Onion, tamarind, red chili, garlic",55,1.2,8,2,Yes
+Carrot Chutney,veg,"Carrot, coconut, red chili, tamarind",55,1,9,1,Yes
+Bitter Gourd Chutney,veg,"Bitter gourd, onion, chili, tamarind",55,1,9,0.8,Yes
+Carrot Salad,Veg,"Carrot, Lemon, Green chilli",60,1,14,0,Yes
+Onion Chutney,Veg,"Onion, Tamarind, Red chilli",60,2,12,2,Yes
+Beetroot Chutney,veg,"Beetroot, coconut, chili, tamarind",60,1.5,10,1.5,Yes
+Drumstick Leaves Chutney,veg,"Moringa leaves, tamarind, chili, garlic",60,3,8,1,Yes
+Pumpkin Chutney,veg,"Pumpkin, tamarind, red chili, garlic",60,1,10,1,Yes
+Fulka,Veg,"Whole wheat flour, water, salt",65,2.8,14,0.3,Yes
+Tamarind Chutney,veg,"Tamarind pulp, jaggery, spices",65,0.5,16,0.2,Yes
+Chaas (Buttermilk),Veg,"Curd, Water, Salt, Jeera",70,4,8,2,Yes
+Jaljeera,Veg,"Cumin, Tamarind, Lemon, Black salt",70,1,12,0,Yes
+Tamarind Chutney,Veg,"Tamarind, Jaggery, Spices",70,1,16,0,Yes
+Jaljeera,Veg,"Cumin, Tamarind, Lemon, Black salt",70,1,12,0,Yes
+Sesame Chutney,veg,"Sesame seeds, tamarind, red chili, garlic",70,2,4,5,Yes
+Pineapple Chutney,veg,"Pineapple, chili, mustard seeds, jaggery",70,0.5,16,0.2,Yes
+Roti,veg,"Whole wheat flour, water, salt",70,2.5,15,0.5,Yes
+Chapati,Veg,"Whole wheat flour, water, salt",71,3,15,0.4,Yes
+Ajwain Chapati,Veg,"Whole wheat flour, ajwain, water, salt",73,3.1,15,0.5,Yes
+Spinach Chapati,Veg,"Whole wheat flour, spinach puree, water, salt",75,3.2,15,0.5,Yes
+Phulka,veg,"Whole wheat flour, water, salt",75,2.5,16,0.4,Yes
+Beetroot Chapati,Veg,"Whole wheat flour, beetroot puree, water, salt",76,3.1,15,0.5,Yes
+Methi Chapati,Veg,"Whole wheat flour, fenugreek leaves, water, salt",78,3.4,15,0.6,Yes
+Garlic Chapati,Veg,"Whole wheat flour, garlic, water, salt",78,3.2,15,0.6,Yes
+Multigrain Chapati,Veg,"Whole wheat flour, millet flour, barley flour, oats, water, salt",80,3.5,16,1,Yes
+Beetroot Salad,Veg,"Beetroot, Lemon, Salt",80,2,16,0,Yes
+Mixed Vegetable Salad,Veg,"Cucumber, Onion, Tomato, Carrot",80,2,15,1,Yes
+Coconut Chutney,Veg,"Coconut, Green chilli, Curry leaves",80,2,10,4,Yes
+Garlic Chutney,Veg,"Garlic, Red chilli, Oil",80,2,6,3,Yes
+Coconut Chutney,veg,"Fresh coconut, roasted chana dal, green chili, curry leaves",80,2,6,6,Yes
+Mosambi Juice,Veg,"Mosambi, Water, Sugar (optional)",85,0,20,0,Yes
+Horse Gram Chutney,veg,"Horse gram, tamarind, garlic, chili",85,5,10,2,Yes
+Tomato Rasam,vegan,"tomato, tamarind, mustard seeds",88.5,2.1,10.3,3.4,Yes
+Tomato Chutney,vegan,"tomato, garlic, mustard",88.6,1.1,6.3,6.4,Yes
+Ragi Roti,Veg,"Ragi flour, water, salt",89,2.3,19,1,Yes
+Orange Juice,Veg,"Orange, Water, Sugar (optional)",90,1,20,0,Yes
+Peanut Chutney,veg,"Roasted peanuts, garlic, tamarind, green chili",90,4,6,6,Yes
+Apple Chutney,veg,"Apple, sugar, vinegar, spices",90,0.5,20,0.2,No
+Tandoori Roti,veg,"Whole wheat flour, yogurt, salt",90,3,18,1,Yes
+Rumali Roti,veg,"Maida, milk, salt, oil",90,2.5,18,1.5,No
+Sago Papad (Sabudana),veg,"Sabudana, salt, cumin",90,1,20,0,Yes
+Flaxseed Chutney,veg,"Flaxseeds, garlic, chili, tamarind",95,4,8,6,Yes
+Moong Dal Papad,veg,"Moong dal flour, spices, salt",95,6,11,1,Yes
+Rice Papad,veg,"Rice flour, chili, salt",95,2,21,0,Yes
+Jowar Papad,veg,"Jowar flour, chili, salt",95,3,21,0.5,Yes
+Jowar Roti,Veg,"Jowar flour, water, salt",96,2.7,22,1.5,Yes
+Bajra Roti,Veg,"Bajra flour, water, salt",97,2.6,21,1.2,Yes
+Rasam,vegan,"tamarind, tomato, mustard seeds",98.2,1.4,10.6,3.5,Yes
+Rasam,Vegan,"Tamarind, Tomato, Pepper, Curry leaves",100,3,18,2,Yes
+Filter Coffee,Veg,"Coffee, Milk, Sugar",100,2,16,2,Yes
+Pineapple Juice,Veg,"Pineapple, Sugar (optional)",100,1,24,0,Yes
+Onion Pickle,Veg,"Onion, Vinegar, Spices",100,1,8,6,Yes
+Kokum Sharbat,Veg,"Kokum, Sugar, Cumin",100,1,22,0,Yes
+Bel Sharbat,Veg,"Bel fruit, Jaggery, Water",100,1,24,0,Yes
+Dal Makhani,veg,"Sabut Urad dal,oil,Ginger, Garlic",100,0,0,0,Yes
+Jowar Roti,veg,"Jowar flour, water, salt",100,2.5,22,1,Yes
+Urad Dal Papad,veg,"Urad dal flour, black pepper, salt",100,6,12,1,Yes
+Jeera Papad,veg,"Urad dal flour, cumin seeds, salt",100,6,12,1,Yes
+Ragi Papad,veg,"Ragi flour, spices, salt",100,3,22,0.5,Yes
+Bajra Papad,veg,"Bajra flour, chili, salt",100,3,20,1,Yes
+Lemon Rasam,vegan,"lemon, tomato, tamarind",104.3,1.2,11.7,3.9,Yes
+Chana Dal Papad,veg,"Chana dal flour, chili, salt",105,6,13,1,Yes
+Ajwain Papad,veg,"Urad dal flour, ajwain, salt",105,6,13,1,Yes
+Missi Roti,Veg,"Whole wheat flour, gram flour, spices, water",110,4,18,3,Yes
+Aam Panna,Veg,"Raw mango, Jaggery, Spices",110,1,25,0,Yes
+Apple Juice,Veg,"Apple, Water, Sugar (optional)",110,0,28,0,Yes
+Beetroot Pickle,Veg,"Beetroot, Vinegar, Spices",110,2,10,5,Yes
+Sol Kadhi,Veg,"Kokum, Coconut milk, Spices",110,2,14,3,Yes
+Dry Garlic Chutney,veg,"Dry coconut, garlic, red chili, peanuts",110,3,6,8,Yes
+Bajra Roti,veg,"Bajra flour, water, salt",110,3,23,1.5,Yes
+Black Pepper Papad,veg,"Urad dal flour, black pepper, salt",110,6,13,1,Yes
+Multigrain Papad,veg,"Mix of lentils, spices, salt",110,6,14,1,Yes
+South Indian Appalam,veg,"Urad dal flour, cumin, black pepper",110,6,14,1,Yes
+Chicken Clear Soup,nonveg,"chicken, spring onion, garlic",112.3,10.5,3.2,4.6,Yes
+Garlic Papad,veg,"Urad dal flour, garlic, chili, salt",115,6,12,2,Yes
+Palak Papad,veg,"Urad dal flour, spinach, chili",115,6,14,2,Yes
+Methi Papad,veg,"Urad dal flour, fenugreek leaves, chili",115,6,14,2,Yes
+Tomato Papad,veg,"Urad dal flour, tomato powder, spices",115,5,15,2,No
+Makki Roti,Veg,"Cornmeal, water, salt",120,3,25,1.8,Yes
+Kosambari,Veg,"Moong dal, Cucumber, Coconut",120,5,16,3,Yes
+Sprout Salad,Veg,"Moong sprouts, Onion, Tomato, Lemon",120,9,22,1,Yes
+Lemon Pickle,Veg,"Lemon, Oil, Spices",120,1,6,8,Yes
+Masala Chai,Veg,"Tea leaves, Milk, Sugar, Spices",120,3,18,4,Yes
+Lassi (Salted),Veg,"Curd, Salt, Jeera",120,6,10,3,Yes
+Green Chilli Pickle,Veg,"Green chilli, Mustard, Oil",120,2,6,8,Yes
+Carrot Pickle,Veg,"Carrot, Mustard, Oil",120,2,10,8,Yes
+Sattu Drink,Veg,"Sattu, Water, Lemon, Salt",120,7,20,2,Yes
+Date Chutney,veg,"Dates, tamarind, jaggery, cumin",120,1.5,28,0.3,Yes
+Missi Roti,veg,"Gram flour, wheat flour, ajwain, spices",120,4,20,3,Yes
+Ragi Roti,veg,"Ragi flour, onion, chili, coriander",120,3,24,2,Yes
+Green Chili Papad,veg,"Urad dal flour, green chili, salt",120,6,13,2,Yes
+Red Chili Papad,veg,"Urad dal flour, red chili powder, salt",120,6,14,2,Yes
+Potato Papad,veg,"Potato, rice flour, salt",120,2,26,1,Yes
+Onion Papad,veg,"Urad dal flour, onion flakes, chili",120,5,14,2,No
+Punjabi Papad,veg,"Urad dal flour, black pepper, hing, chili",120,6,15,2,Yes
+Beetroot Poriyal,vegan,"beetroot, coconut, mustard",128.4,2.6,11.4,6.2,Yes
+Chilli Pickle,Veg,"Green chilli, Mustard oil, Spices",130,2,8,9,Yes
+Turnip Pickle,Veg,"Turnip, Mustard, Oil, Spices",130,2,12,7,Yes
+Sweet Potato Papad,veg,"Sweet potato, rice flour, chili, salt",130,2,28,1,Yes
+Gujarati Chorafali Papad,veg,"Chana dal flour, urad flour, spices",130,7,16,2,Yes
+Cabbage Poriyal,vegan,"cabbage, coconut, mustard seeds",132.1,2.9,11.5,7.2,Yes
+Karela Fry,vegan,"bitter gourd, turmeric, onion",134.2,2.4,11.6,7.5,Yes
+Tinda Curry,vegan,"apple gourd, onion, tomato",139.5,2.8,12.5,7.3,Yes
+Ginger Pickle,Veg,"Ginger, Oil, Tamarind, Spices",140,2,8,9,Yes
+Beetroot Poriyal,vegan,"beetroot, coconut, mustard seeds",142.7,2.4,11.8,7.9,Yes
+Parwal Bhujia,vegan,"pointed gourd, mustard seeds",142.7,2.9,11.8,7.4,Yes
+Baingan Bharta,vegan,"roasted brinjal, onion, tomato",145.4,3.2,14.7,7.1,Yes
+Cabbage Thoran,vegan,"cabbage, coconut, mustard",149.2,3.1,13.5,7.1,Yes
+Kaddu ki Sabzi,vegan,"pumpkin, fenugreek seeds",149.3,2.6,14.4,8.1,Yes
+Tandoori Roti,Veg,"Wheat flour, Salt, Yeast",150,5,28,2,Yes
+Mango Pickle,Veg,"Raw mango, Oil, Spices",150,2,8,12,Yes
+Petha,Veg,"Ash gourd, Sugar, Cardamom",150,1,36,0,Yes
+Rose Sharbat,Veg,"Rose petals, Sugar, Water",150,1,34,0,Yes
+Palm Wine (Toddy),Nonveg,"Palm sap, Fermentation",150,1,30,0,No
+Makki di Roti,veg,"Corn flour, water, ghee",150,3,30,4,Yes
+Masala Papad,veg,"Urad papad, onion, tomato, chili, masala",150,5,18,4,No
+Bhindi Masala,vegan,"okra, tomato, mustard seeds",153.6,2.9,11.7,10.2,Yes
+Chicken Soup,nonveg,"chicken, carrot, onion, herbs",155.6,15.2,6.1,6.4,Yes
+Masala Tinda,vegan,"apple gourd, mustard, chili",158.6,3.1,12.9,8.6,Yes
+Roomali Roti,Veg,"Maida, Salt, Water",160,5,32,2,Yes
+Mixed Vegetable Pickle,Veg,"Carrot, Cauliflower, Turnip, Oil, Spices",160,2,10,12,Yes
+Rooh Afza Sharbat,Veg,"Herbs, Rose, Sugar, Water",160,1,40,0,No
+Besan Roti,veg,"Gram flour, wheat flour, chili, ajwain",160,6,24,5,Yes
+Chicken Shorba,nonveg,"chicken, broth, spices",160.5,14.9,4.1,8.7,Yes
+Cauliflower Upma,vegan,"cauliflower, mustard, spices",160.9,5.8,24.6,3,Yes
+Vazhaipoo Poriyal,vegan,"banana flower, coconut, mustard",165.6,3.4,12.3,8.1,Yes
+Neer Dosa,vegan,"rice flour, coconut, salt",165.7,2.2,18.4,8.2,Yes
+Aloo Gajar Matar,vegan,"potato, carrot, peas",167.6,4.8,19.9,7.5,Yes
+Oats Vegetable Upma,vegan,"oats, carrot, beans, mustard",169.4,7.2,26.3,3.2,Yes
+Palak Dhokla,veg,"spinach, besan, ginger, green chili",169.8,7.4,25.6,4.2,Yes
+Garlic Pickle,Veg,"Garlic, Oil, Spices",170,3,12,10,Yes
+Ajwain Paratha,veg,"Wheat flour, ajwain, ghee",170,4,26,6,No
+Lettuce Upma,vegan,"lettuce, rava, spices",170.6,6,25.7,3.1,Yes
+Ash Gourd Upma,vegan,"ash gourd, rava, spices",170.8,6,25.8,3.2,Yes
+Kohlrabi Upma,vegan,"knol-khol, rava, spices",171.5,6.1,25.9,3.2,Yes
+Snake Gourd Upma,vegan,"snake gourd, rava, mustard",172.3,6,26.1,3.3,Yes
+Celery Upma,vegan,"celery, semolina, mustard",172.9,6.1,26,3.2,Yes
+Ridge Gourd Upma,vegan,"ridge gourd, semolina, chili",173.4,6.2,26.4,3.4,Yes
+Cucumber Upma,vegan,"cucumber, rava, green chili",173.6,6.3,26.2,3.3,Yes
+Coriander Upma,vegan,"coriander, rava, chili",173.8,6.2,26.3,3.3,Yes
+Mint Upma,vegan,"pudina, semolina, mustard",174.1,6.3,26.5,3.4,Yes
+Cabbage Upma,vegan,"cabbage, mustard, semolina",174.2,6,26.4,3.5,Yes
+Quinoa Dhokla,vegan,"quinoa, besan, mustard seeds",174.5,6.9,25.7,4,Yes
+Raw Papaya Upma,vegan,"raw papaya, semolina, mustard",174.5,6.3,26.5,3.4,Yes
+Leek Upma,vegan,"leek, rava, green chili",174.6,6.3,26.6,3.4,Yes
+Water Spinach Upma,vegan,"kalmi saag, rava, mustard",174.7,6.3,26.6,3.3,Yes
+Oats Dhokla,veg,"oats, curd, mustard seeds",174.8,6.7,26.1,4.1,Yes
+Turnip Upma,vegan,"turnip, rava, mustard",174.9,6.2,26.7,3.4,Yes
+Tinda Upma,vegan,"apple gourd, rava, chili",175.1,6.1,26.8,3.5,Yes
+Zucchini Upma,vegan,"zucchini, semolina, mustard",175.3,6.2,27.9,3.8,Yes
+Curry Leaves Upma,vegan,"curry leaves, semolina, mustard",175.4,6.3,26.9,3.4,Yes
+Amaranth Upma,vegan,"amaranth leaves, semolina, chili",175.6,6.4,26.8,3.4,Yes
+Radish Upma,vegan,"radish, semolina, mustard",175.8,6.2,26.9,3.4,Yes
+Lemon Dhokla,veg,"lemon zest, besan, mustard",176.2,6.3,26.9,4,Yes
+Mustard Greens Upma,vegan,"sarson, semolina, chili",176.2,6.5,27.1,3.5,Yes
+Palak Kadhi,veg,"spinach, yogurt, besan",176.2,6.9,13.2,9.8,Yes
+Quinoa Upma,vegan,"quinoa, veggies, green chili",176.5,6.9,28.7,3.6,Yes
+Amaranth Dhokla,vegan,"amaranth flour, curd, spices",176.7,7.5,26.3,4.1,Yes
+Ragi Dhokla,veg,"ragi flour, curd, mustard seeds",176.9,6.9,27.4,3.9,Yes
+Spinach Upma,vegan,"spinach, semolina, mustard",176.9,6.7,27,3.6,Yes
+Kale Upma,vegan,"kale, rava, mustard seeds",176.9,6.5,27,3.5,Yes
+Methi Upma,vegan,"fenugreek, semolina, mustard",177.2,6.5,27.1,3.5,Yes
+Brinjal Upma,vegan,"brinjal, semolina, curry leaves",178.1,6.4,27.1,3.6,Yes
+Colocasia Upma,vegan,"arbi, semolina, mustard",178.2,6.3,27.3,3.6,Yes
+Beans Paruppu Usili,vegan,"beans, chana dal, mustard",178.2,6.3,10.2,8.7,Yes
+Arbi Masala,vegan,"colocasia, tomato, carom seeds",178.3,3.2,23.4,8.7,Yes
+Sprouted Ragi Dhokla,veg,"sprouted ragi, curd, chili",178.4,8.1,26.5,4.3,Yes
+Baingan Fry,vegan,"brinjal, besan, chili",178.4,3.3,13.5,11.2,Yes
+Jowar Dhokla,veg,"jowar flour, curd, mustard",178.5,7.2,26.4,4.4,Yes
+Beetroot Upma,vegan,"beetroot, rava, mustard",178.6,6.6,27.5,3.8,Yes
+Sambar,vegan,"toor dal, tamarind, vegetables",178.6,8.3,22.5,6.1,Yes
+Pumpkin Upma,vegan,"pumpkin, rava, mustard",178.7,6.5,27.3,3.6,Yes
+Drumstick Leaves Upma,vegan,"moringa leaves, rava, spices",178.8,6.6,27.4,3.6,Yes
+Zucchini & Carrot Upma,vegan,"zucchini, carrot, rava",179.1,6.4,27.2,3.6,Yes
+Masala Oats Dhokla,veg,"oats, chili, curd, mustard",179.2,7,27.3,4.3,Yes
+Bottle Gourd Upma,vegan,"lauki, mustard, semolina",179.3,6.2,27.3,3.7,Yes
+Raw Mango Upma,vegan,"raw mango, rava, spices",179.4,6.4,27.5,3.7,Yes
+Murungakkai Sambar,vegan,"drumstick, toor dal, spices",179.4,7.1,17.9,6.8,Yes
+Buckwheat Dhokla,vegan,"buckwheat flour, curd, spices",179.6,7.3,27.2,4.2,Yes
+Bottle Gourd Dhokla,veg,"lauki, besan, mustard",179.6,6.6,27,4.2,Yes
+Spring Onion Upma,vegan,"spring onion, rava, chili",179.9,6.4,27.6,3.7,Yes
+Stuffed Paneer Paratha,Veg,"Whole wheat flour, paneer, spices, water, salt",180,6,22,7,Yes
+Sambar,Vegan,"Toor dal, Tamarind, Vegetables",180,9,32,4,Yes
+Khandvi,Veg,"Besan, Curd, Spices",180,6,25,6,Yes
+Thoran,Veg,"Cabbage, Coconut, Curry leaves",180,4,20,6,Yes
+Sundal,Veg,"Chickpeas, Coconut, Curry leaves",180,9,24,5,Yes
+Kaju Katli,Veg,"Cashew, Sugar, Cardamom",180,4,18,8,Yes
+Kaju Katli,Veg,"Cashews, Sugar, Cardamom",180,4,18,8,Yes
+Lassi (Sweet),Veg,"Curd, Sugar, Cardamom",180,5,28,4,Yes
+Sugarcane Juice,Veg,"Sugarcane, Ginger, Lemon",180,1,45,0,Yes
+Plain Paratha,veg,"Wheat flour, ghee, salt",180,4,26,7,No
+Pudina Paratha,veg,"Wheat flour, mint leaves, chili, ghee",180,4,27,6,Yes
+Akki Roti,veg,"Rice flour, onion, chili, coriander",180,3,34,2,Yes
+Khaman Dhokla,veg,"besan, lemon juice, mustard seeds",180.4,7.2,30.5,4.5,Yes
+Sprouted Oats Dhokla,veg,"sprouted oats, curd, mustard",180.4,7.8,27.1,4.2,Yes
+Cucumber Dhokla,veg,"cucumber, besan, curd",180.6,6.4,27.2,4,Yes
+Tomato Upma,vegan,"tomato, rava, curry leaves",180.6,6.4,28.5,3.9,Yes
+Zucchini Dhokla,veg,"zucchini, besan, curd",180.9,6.6,27.9,4.2,Yes
+Curry Leaf Dhokla,veg,"curry leaves, besan, mustard",181.3,6.9,27.6,4.3,Yes
+Capsicum Upma,vegan,"capsicum, rava, spices",181.3,6.3,27.8,3.8,Yes
+Lauki Dhokla,veg,"bottle gourd, besan, mustard",181.5,6.8,27.1,4.2,Yes
+Mint Dhokla,veg,"mint leaves, besan, curd",181.5,6.5,27.7,4.1,Yes
+Green Gram Dhokla,veg,"green gram, curd, ginger",182.1,8,27.8,4,Yes
+Carrot & Beans Upma,vegan,"carrot, beans, rava",182.3,6.3,28,3.7,Yes
+Carrot Beans Upma,vegan,"carrot, beans, semolina",182.4,6.3,28,3.7,Yes
+Dhokla (Khaman),veg,"gram flour, yogurt, Eno, spices",182.54,6.82,21.45,7.21,Yes
+Methi Dhokla,veg,"fenugreek leaves, besan, curd",182.7,6.8,27.5,4.4,Yes
+Coriander Dhokla,veg,"coriander, besan, mustard",182.9,6.8,27.5,4.3,Yes
+Sprouted Dhokla,veg,"sprouted moong, besan",183.5,8.6,27.9,4.3,Yes
+Capsicum Dhokla,veg,"capsicum, besan, mustard",183.5,6.7,28.4,4.3,Yes
+Ajwain Dhokla,veg,"ajwain, besan, curd",183.7,6.9,28.3,4.4,Yes
+Moong Dal Dhokla,veg,"moong dal, ginger, chili, curd",184.2,8.3,28.9,4.1,Yes
+Radish Dhokla,veg,"radish, besan, mustard",184.2,6.7,28.1,4.4,Yes
+Millet Veg Upma,vegan,"millet, veggies, mustard",184.6,6.1,30.1,3.9,Yes
+Palak Paratha,veg,"Wheat flour, spinach, chili, spices",185,5,28,6,Yes
+Cabbage Dhokla,veg,"cabbage, besan, mustard",185.1,6.6,28.9,4.6,Yes
+Carrot Dhokla,veg,"carrot, semolina, curd",185.6,6.1,29.7,4.6,Yes
+Vendakkai Kara Kuzhambu,vegan,"ladies finger, tamarind, mustard",186.1,3.4,12.5,11.5,Yes
+Uppu Kozhukattai,vegan,"rice flour, mustard, coconut",186.2,3.2,23.4,8.4,Yes
+Jackfruit Upma,vegan,"raw jackfruit, semolina, chili",186.3,6.5,28.3,4,Yes
+Dhokla (No Yogurt),vegan,"gram flour, lemon juice, spices",186.32,6.89,21.76,6.44,Yes
+Barley Dhokla,veg,"barley flour, besan, curd",186.5,7,28.2,4.4,Yes
+Masoor Dal Dhokla,veg,"masoor dal, chili, mustard",186.6,8.2,28.5,4.6,Yes
+Instant Dhokla,veg,"besan, ENO, mustard seeds",187.3,7,29.1,4.7,Yes
+Pumpkin Dhokla,veg,"pumpkin, besan, chili, mustard",187.3,6.9,29.6,4.7,Yes
+Bengal Gram Upma,vegan,"chana dal, rava, spices",187.5,7.1,28.1,4.1,Yes
+Tomato Spinach Dhokla,veg,"tomato, spinach, besan",187.9,7.1,29.3,4.5,Yes
+Ragi Upma,vegan,"ragi flour, spices, mustard",187.9,6.4,30.8,4.1,Yes
+Toor Dal Dhokla,veg,"toor dal, mustard, chili",188.3,7.7,29.4,4.7,Yes
+Bengal Gram Dhokla,veg,"bengal gram, besan, spices",188.4,7.3,28.5,4.6,Yes
+Moong Dal Upma,vegan,"moong dal, rava, curry leaves",188.4,8.5,26.8,4,Yes
+Beetroot Dhokla,veg,"beetroot, besan, curd",189.2,6.8,28.9,4.9,Yes
+Dhokla (Spicy),veg,"gram flour, chili paste, mustard",189.24,7.02,21.89,6.87,Yes
+Karela Sabzi (No Onion Garlic),vegan,"karela, spices, mustard seeds",189.31,5.63,16.89,10.14,Yes
+Chana Dal Dhokla,veg,"chana dal, ginger, chili",189.4,7.9,28.7,4.9,Yes
+Mixed Sprouts Upma,vegan,"sprouts, rava, mustard",189.6,8.3,26.5,4.2,Yes
+Sweet Potato Upma,vegan,"sweet potato, rava, mustard",189.6,6.5,29.2,4.1,Yes
+Lauki Chana Dal,vegan,"bottle gourd, Bengal gram",189.6,9.5,24.7,5.6,Yes
+Karela Dhokla,veg,"bitter gourd, besan, mustard",189.7,7,28.8,4.6,Yes
+Lauki Chana Dal,vegan,"bottle gourd, Bengal gram",189.7,9.4,18.2,6.4,Yes
+Baingan Bharta,Veg,"Brinjal, Tomato, Onion, Spices",190,4,18,10,Yes
+Boondi Raita,Veg,"Curd, Boondi, Spices",190,7,18,8,Yes
+Methi Paratha,veg,"Wheat flour, fenugreek leaves, chili",190,5,28,7,Yes
+Beetroot Paratha,veg,"Wheat flour, beetroot, chili, spices",190,5,28,6,Yes
+Thepla,veg,"Wheat flour, methi, chili, turmeric",190,6,28,6,Yes
+Multigrain Dhokla,veg,"multigrain flour, curd, spices",191.4,7.5,30.3,4.9,Yes
+Broken Wheat Upma,vegan,"broken wheat, ghee, curry leaves",191.8,5.9,31.4,4.2,Yes
+Wheat Dhokla,veg,"wheat flour, curd, mustard",192.2,6.4,30.8,5.1,Yes
+Rava Dhokla,veg,"semolina, curd, mustard seeds",192.3,5.9,31.6,5.2,Yes
+Corn Upma,veg,"sweet corn, semolina, chili",192.5,6.1,29.6,4.3,Yes
+Mushroom & Corn Upma,vegan,"mushrooms, corn, semolina",192.7,6.8,28.6,4.3,Yes
+Dhokla (With Spinach),veg,"gram flour, spinach puree, chili",192.87,7.11,20.53,7.02,Yes
+Kootu,vegan,"vegetables, lentils, coconut",193.5,7.2,16.3,8.7,Yes
+Mushroom Upma,vegan,"mushrooms, rava, curry leaves",194.4,6.8,28.3,4.4,Yes
+Dhokla (Rava),veg,"semolina, yogurt, Eno, mustard seeds",194.67,6.12,23.73,6.89,Yes
+Coconut Dhokla,veg,"grated coconut, besan, mustard",194.7,6.5,30.1,5,Yes
+Karela Sabzi (Roasted),vegan,"karela, spices, minimal oil",194.74,5.72,17.06,10.23,Yes
+Mooli Paratha,veg,"Wheat flour, radish, green chili, spices",195,4,30,6,No
+Masala Dhokla,veg,"besan, green chili, mustard",195.2,6.9,30.7,4.8,Yes
+Tomato Dhokla,veg,"tomato puree, besan, spices",195.8,6.5,30.9,4.8,Yes
+Sesame Dhokla,veg,"sesame seeds, besan, curd",195.8,7.2,30.3,5.1,Yes
+Mixed Veg Dhokla,veg,"carrot, beans, besan, mustard",196.3,7.2,30.4,5,Yes
+Dhokla (With Carrot),veg,"gram flour, carrot, mustard, chili",196.42,6.95,22.67,7.31,Yes
+Poha Dhokla,veg,"poha, curd, mustard",197.1,6.2,31.1,5,Yes
+Karela Sabzi (Microwave),vegan,"karela, masala, minimal oil",197.68,5.83,17.64,10.53,Yes
+Dhokla (With Beetroot),veg,"gram flour, beetroot puree, mustard",198.15,6.72,22.94,7.15,Yes
+Jowar Upma,vegan,"jowar, mustard, curry leaves",198.2,6.6,32.5,4.5,Yes
+Tomato & Tofu Upma,vegan,"tomato, tofu, semolina",198.2,8.6,27.4,4.7,Yes
+Masoor Dal,vegan,"red lentils, onion, tomato",198.2,11.6,27.3,4.2,Yes
+Baingan Bharta (Low Oil),vegan,"eggplant, tomato, garlic, spices",198.27,6.42,25.76,7.05,Yes
+Vermicelli Dhokla,veg,"vermicelli, besan, mustard",198.3,6.2,31.9,5.2,Yes
+Prawn Masala,nonveg,"prawns, coconut, spices",198.3,21.6,5.6,10.4,Yes
+Karela Sabzi (Dry),vegan,"bitter gourd, onion, spices",198.46,5.78,17.32,10.94,Yes
+Keerai Kootu,vegan,"amaranth leaves, dal, coconut",198.5,8.3,14.7,8.2,Yes
+Egg Bhurji,nonveg,"eggs, onion, tomato, chili",198.6,13.4,3.1,14.7,Yes
+Peanut Upma,vegan,"peanuts, semolina, chili",198.7,7,29.3,4.6,Yes
+Sunflower Seed Dhokla,vegan,"sunflower seeds, besan, mustard",199.4,8,29.5,5.3,Yes
+Bhindi Masala,Veg,"Ladyfinger, Onion, Tomato, Spices",200,4,20,8,Yes
+Missi Roti,Veg,"Wheat flour, Besan, Spices",200,7,30,5,Yes
+Rose Milk,Veg,"Milk, Rose syrup, Sugar",200,6,30,5,Yes
+Sharbat-e-Mohabbat,Veg,"Milk, Watermelon, Rose syrup",200,6,30,5,Yes
+Feni (Goa),Nonveg ,"Cashew apple, Fermentation",200,0,0,0,No
+Lachha Paratha,veg,"Wheat flour, ghee, salt",200,4,28,8,No
+Onion Paratha,veg,"Wheat flour, onion, chili, coriander",200,5,30,7,No
+Missi Paratha,veg,"Gram flour, wheat flour, chili, spices",200,6,28,7,Yes
+Khoba Roti,veg,"Wheat flour, ghee, salt",200,5,32,7,No
+Dhokla (Moong Dal),veg,"moong dal, ginger, chili, yogurt",201.34,7.54,20.91,7.84,Yes
+Khatta Dhokla,veg,"rice, urad dal, sour curd",201.6,6.1,33.4,5.6,Yes
+Tofu Upma,vegan,"tofu, semolina, spices",201.8,9.2,26.7,5.1,Yes
+Karela Sabzi (Baked),vegan,"karela, spices, olive oil",202.17,5.91,18.23,10.82,Yes
+Masoor Dal Tadka,vegan,"red lentils, cumin, garlic",202.8,10.5,21.3,8.1,Yes
+Kanchipuram Idli,veg,"rice, urad dal, pepper",203.1,5.9,30.4,6.2,Yes
+Karela Sabzi (Spicy),vegan,"karela, green chili, turmeric",203.16,5.89,17.93,11.44,Yes
+Sweet Corn Dhokla,veg,"corn, besan, ginger",203.4,6.4,33.8,5.1,Yes
+Bajra Upma,vegan,"bajra, vegetables, spices",203.7,6.3,33.2,4.8,Yes
+Avial,vegan,"mixed vegetables, coconut, yogurt",204.1,4.1,13.4,13.8,Yes
+Soya Dhokla,veg,"soy flour, besan, curd",204.3,9.1,30.2,5.3,Yes
+Peas & Paneer Upma,veg,"peas, paneer, rava",205.4,9.1,27.7,5.2,Yes
+Karela Sabzi (With Hing),vegan,"karela, asafoetida, spices",206.33,5.95,18.64,11.22,Yes
+Dhokla (Tandoori),veg,"gram flour, smoked masala, yogurt",207.93,7.18,22.36,7.94,Yes
+Walnut Dhokla,veg,"walnuts, besan, mustard",208.6,7.5,30.9,6.3,Yes
+Stuffed Dhokla,veg,"besan, coconut, green chutney",209.6,7.1,31.5,6,Yes
+Paneer Upma,veg,"paneer, rava, chili",209.7,9.6,27.2,5.4,Yes
+Karela Sabzi (With Turmeric),vegan,"karela, turmeric, onion",209.81,5.98,18.94,11.43,Yes
+Tandoori Dhokla,veg,"besan, chili, roasted masala",209.9,7.4,31.7,5.8,Yes
+Aloo Gobi,Veg,"Cauliflower, Potato, Spices",210,5,28,9,Yes
+Neer Dosa,Veg,"Rice, Salt, Water",210,4,44,3,Yes
+Sarson da Saag,Veg,"Mustard leaves, Spinach, Spices",210,8,20,8,Yes
+Cold Coffee,Veg,"Milk, Coffee, Sugar, Ice",210,6,34,6,Yes
+Gobi Paratha,veg,"Wheat flour, cauliflower, chili, spices",210,6,30,8,No
+Koki Roti,veg,"Wheat flour, onion, green chili, ghee",210,5,32,7,No
+Spinach Paneer Dhokla,veg,"spinach, paneer, besan",210.8,9.5,29.6,5.9,Yes
+Karela Sabzi (With Tomato),vegan,"karela, tomato, onion",211.27,6.02,19.11,11.71,Yes
+Chicken Rasam,nonveg,"chicken broth, pepper, tamarind",211.6,19.4,4.6,11.2,Yes
+Paneer Dhokla,veg,"paneer, besan, mustard",212.4,10.3,29.2,6.2,Yes
+Rajma Masala,vegan,"kidney beans, tomato, onion",212.5,12.3,32.1,3.8,Yes
+Karela Sabzi (With Lemon Juice),vegan,"karela, lemon juice, spices",212.55,6.03,19.18,11.61,Yes
+Chana Masala,vegan,"chickpeas, onion, tomato",213.6,11.2,28.5,6.9,Yes
+Egg Upma,nonveg,"egg, rava, mustard",214.2,10.1,26.6,5.9,Yes
+Baingan Bharta (No Onion Garlic),vegan,"eggplant, tomato, spices",214.26,6.62,18.79,11.96,Yes
+Dhokla (Multigrain),veg,"gram flour, oats, ragi, spices",214.59,8.21,22.88,8.36,Yes
+Karela Sabzi (Tangy),vegan,"karela, amchur, tomato",214.82,6.08,19.32,11.85,Yes
+Karela Sabzi (With Onion-Tomato),vegan,"karela, onion, tomato",217.34,6.09,19.87,11.92,Yes
+Protein Rich Dhokla,veg,"moong dal, paneer, curd",218.5,11.2,28.6,6,Yes
+Masala Omelette,nonveg,"egg, onion, tomato, chili",218.6,13.8,3.6,15.4,Yes
+Sandwich Dhokla,veg,"besan, bread slices, mustard, curry leaves",218.7,7.1,32.6,6.3,Yes
+Kambu Dosai,vegan,"pearl millet, rice, urad dal",218.7,6.3,34.5,5.7,Yes
+Karela Sabzi (With Methi),vegan,"karela, fenugreek, onion",219.41,6.19,19.78,12.08,Yes
+Dal Tadka,Vegan,"Yellow dal, Garlic, Onion, Spices",220,11,28,6,Yes
+Dhokla,Veg,"Besan, Curd, Mustard seeds",220,7,38,5,Yes
+Idiyappam,Veg,"Rice flour, Salt, Water",220,4,46,4,Yes
+Kothimbir Vadi,Veg,"Besan, Coriander, Spices",220,7,28,6,Yes
+Ghugni,Veg,"White peas, Onion, Spices",220,9,36,3,Yes
+Rasgulla,Veg,"Chhena, Sugar syrup",220,5,42,4,Yes
+Pani Puri,Veg,"Sooji puri, Potato, Tamarind water",220,5,36,6,Yes
+Makki di Roti,Veg,"Makki flour, Salt, Water",220,6,38,4,Yes
+Rasgulla,Veg,"Chhena, Sugar syrup",220,5,42,4,Yes
+Badam Milk,Veg,"Milk, Almonds, Sugar, Cardamom",220,7,30,8,Yes
+Shondesh (Bengali),Veg,"Paneer, Sugar, Cardamom",220,7,30,6,Yes
+Tilgul (Sesame Ladoo),Veg,"Sesame seeds, Jaggery",220,6,30,9,Yes
+Fish Pickle,Nonveg,"Fish, Oil, Mustard, Spices",220,18,5,12,Yes
+Aloo Paratha,veg,"Wheat flour, potato, chili, ghee",220,5,32,9,No
+Thalipeeth,veg,"Multigrain flour, chili, onion, coriander",220,7,32,8,Yes
+Protein Mix Dhokla,veg,"moong, masoor, paneer, besan",221.6,11.5,29.2,6.1,Yes
+Baingan Bharta,vegan,"eggplant, onion, tomato",222.34,6.84,19.37,12.45,Yes
+Karela Sabzi (With Garlic),vegan,"karela, garlic, tomato",222.79,6.16,20.04,12.22,Yes
+Dal Tadka,vegan,"toor dal, garlic, ghee",224.1,11.2,28.4,7.2,Yes
+Baingan Bharta (Home Style),vegan,"eggplant, tomato, garlic, onion",224.11,6.98,28.47,9.31,Yes
+Capsicum Rice,vegan,"rice, bell pepper, mustard seeds",224.6,4.5,35.2,6.1,Yes
+Arisi Upma,vegan,"rice, pepper, mustard",224.6,4.2,30.5,9.6,Yes
+Baingan Bharta (With Coriander),vegan,"eggplant, coriander, tomato",225.67,6.91,19.67,12.72,Yes
+Boiled Egg Curry,nonveg,"eggs, tomato, onion, spices",226.4,13.2,6.3,14.3,Yes
+Baingan Bharta (Smoky),vegan,"roasted eggplant, tomato, spices",226.45,6.96,19.78,12.81,Yes
+Karela Sabzi (Sweet-Spicy),vegan,"karela, jaggery, chili",228.66,6.38,20.91,12.61,Yes
+Baingan Bharta (Spicy),vegan,"eggplant, chili, tomato",228.91,7.03,20.02,13.05,Yes
+Prawn Upma,nonveg,"prawns, rava, green chili",229.1,11.7,27.6,6,Yes
+Poha,Veg,"Flattened rice, Onion, Peanuts",230,5,42,7,Yes
+Chitranna,Veg,"Rice, Lemon juice, Curry leaves",230,5,46,6,Yes
+Shukto,Veg,"Bitter gourd, Vegetables, Mustard",230,6,28,8,Yes
+Nolen Gurer Sandesh,Veg,"Chhena, Date palm jaggery, Cardamom",230,7,28,8,Yes
+Kesar Badam Milk,Veg,"Milk, Almonds, Saffron, Sugar",230,8,28,9,Yes
+Fish Tikka,nonveg,"fish, yogurt, spices",230.7,24.2,4.5,12.8,Yes
+Baingan Bharta (With Peas),vegan,"eggplant, peas, tomato",232.61,7.12,20.14,13.18,Yes
+Baingan Bharta (With Hing),vegan,"eggplant, asafoetida, tomato",232.89,7.11,20.19,13.31,Yes
+Egg Masala,nonveg,"egg, tomato, onion, garam masala",233.5,13.5,6.8,15.2,Yes
+Baingan Bharta (With Capsicum),vegan,"eggplant, capsicum, tomato",234.67,7.15,20.28,13.43,Yes
+Baingan Bharta (With Mint),vegan,"eggplant, mint, tomato",236.14,7.18,20.42,13.56,Yes
+Karela Sabzi (With Potato),vegan,"karela, potato, masala",236.27,6.42,24.76,12.33,Yes
+Thinai Pongal,vegan,"foxtail millet, moong dal, ghee",236.4,7.1,25.4,10.9,Yes
+Vegetable Kurma,veg,"carrot, beans, coconut, spices",236.9,4.7,16.5,14.1,Yes
+Upma,vegan,"semolina, mustard seeds, curry leaves",237.5,5.4,34.1,9.4,Yes
+Baingan Bharta (With Methi),vegan,"eggplant, fenugreek, tomato",237.98,7.21,20.53,13.66,Yes
+Egg Bhurji,nonveg,"egg, onion, tomato",238.4,13.4,6.7,16.3,Yes
+Chicken Upma,nonveg,"chicken mince, rava, spices",238.6,12.4,27.9,6.5,Yes
+Baingan Bharta (With Carrot),vegan,"eggplant, carrot, tomato",239.42,7.24,20.68,13.78,Yes
+Sev Tamatar,Veg,"Tomato, Sev, Spices",240,5,28,8,Yes
+Vegetable Stew,Veg,"Vegetables, Coconut milk, Spices",240,5,28,10,Yes
+Misti Doi,Veg,"Milk, Sugar, Curd",240,8,32,7,Yes
+Misti Doi,Veg,"Milk, Sugar, Curd",240,8,32,7,Yes
+Banana Shake,Veg,"Milk, Banana, Sugar",240,7,45,6,Yes
+Strawberry Shake,Veg,"Milk, Strawberry, Sugar",240,6,40,6,Yes
+Soan Papdi,Veg,"Besan, Sugar, Ghee, Cardamom",240,5,34,10,Yes
+Chikki (Peanut),Veg,"Peanuts, Jaggery",240,9,28,12,Yes
+Paneer Paratha,veg,"Wheat flour, paneer, chili, coriander",240,9,32,10,No
+Kulcha,veg,"Maida, yogurt, yeast, ghee",240,5,40,6,No
+Egg Curry,nonveg,"eggs, tomato, onion, spices",240.2,13.7,9.3,15.6,Yes
+Egg Pepper Fry,nonveg,"egg, black pepper, garlic",241.9,13.7,5.3,15.6,Yes
+Lauki Kofta,veg,"bottle gourd, besan, gravy",243.5,6.8,11.7,16.9,Yes
+Egg Roast,nonveg,"boiled eggs, onion, tomato, chili",243.9,13.8,8.2,15.7,Yes
+Masoor Dal (No Oil),vegan,"masoor dal, garlic, tomato, spices",244.13,15.62,27.94,5.38,Yes
+Egg Bhaji,nonveg,"egg, chili, coriander",244.8,13.5,4.9,15.6,Yes
+Baingan Bharta (With Mustard Oil),vegan,"eggplant, mustard oil, tomato",244.93,7.28,21.22,14.37,Yes
+Pudina Rice,vegan,"mint, rice, green chili",245.3,4.2,38.7,9.1,Yes
+Aloo Gobi (Dry),veg,"potato, cauliflower, turmeric",245.66,5.41,21.98,12.42,Yes
+Baingan Bharta (With Peas),vegan,"eggplant, green peas, onion, garlic",247.83,7.26,30.29,10.46,Yes
+Egg Curry (Kerala Style),nonveg,"boiled eggs, coconut, curry leaves",248.3,14.1,9.5,16.8,Yes
+Karela Sabzi (Stuffed),vegan,"karela, ground masala, onion",248.59,6.78,25.61,13.47,Yes
+Upma,Veg,"Rava, Vegetables, Curry leaves",250,6,45,6,Yes
+Thepla,Veg,"Wheat flour, Fenugreek, Spices",250,7,40,9,Yes
+Modak,Veg,"Rice flour, Jaggery, Coconut",250,4,38,7,Yes
+Ragi Mudde,Vegan,"Ragi flour, Water, Salt",250,6,55,2,Yes
+Puttu,Veg,"Rice flour, Coconut, Salt",250,4,48,6,Yes
+Kesari Bath,Veg,"Rava, Sugar, Ghee",250,5,40,9,Yes
+Sandesh,Veg,"Chhena, Sugar, Cardamom",250,7,32,8,Yes
+Rava Ladoo,Veg,"Rava, Sugar, Ghee",250,5,34,9,Yes
+Butter Naan,Veg,"Maida, Butter, Yeast",250,6,40,8,No
+Galouti Kebab,Nonveg,"Mutton, Spices",250,22,8,14,Yes
+Egg Bhurji,Nonveg,"Eggs, Onion, Tomato, Spices",250,14,6,18,Yes
+Peda,Veg,"Milk, Sugar, Cardamom",250,6,32,9,Yes
+Rava Ladoo,Veg,"Rava, Ghee, Sugar",250,5,34,9,Yes
+Sandesh,Veg,"Chhena, Sugar, Cardamom",250,7,32,8,Yes
+Pitha (Assam),Veg,"Rice flour, Jaggery, Coconut",250,5,38,6,Yes
+Kesari Bath,Veg,"Rava, Sugar, Ghee",250,5,40,9,Yes
+Mango Shake,Veg,"Milk, Mango, Sugar",250,6,42,7,Yes
+Pathishapta Pitha,Veg,"Rice flour, Coconut, Jaggery",250,5,40,6,Yes
+Prawn Pickle,Nonveg,"Prawns, Oil, Spices",250,20,6,14,Yes
+Egg Paratha,nonveg,"Wheat flour, egg, chili, onion",250,10,28,9,No
+Crab Curry,nonveg,"crab, coconut, spices",250.1,20.7,5.5,15.9,Yes
+Fish Paturi,nonveg,"fish, mustard paste, banana leaf",250.9,22.1,4.5,14.3,Yes
+Baingan Bharta (With Ghee),veg,"eggplant, ghee, spices",251.38,7.31,21.48,14.89,No
+Karela Sabzi (With Besan),vegan,"karela, chickpea flour, masala",251.68,6.97,22.83,13.64,Yes
+Anda Curry (Egg Curry),nonveg,"egg, onion, garam masala",252.4,14.1,7.6,15.9,Yes
+Aloo Gobi (No Onion),veg,"potato, cauliflower, cumin",253.41,5.26,22.61,13.14,Yes
+Paneer Jalfrezi,veg,"paneer, bell peppers, onion",256.8,11.8,10.5,18.2,Yes
+Karela Sabzi (Punjabi Style),vegan,"karela, onion, spices, mustard oil",256.97,6.89,23.49,13.98,Yes
+Appam,Veg,"Rice flour, Coconut milk, Yeast",260,5,52,7,Yes
+Puliyodarai,Veg,"Rice, Tamarind, Curry leaves",260,6,50,7,Yes
+Dalma,Veg,"Toor dal, Vegetables, Spices",260,10,40,7,Yes
+Ghugni Chaat,Veg,"White peas, Onion, Tamarind",260,10,42,6,Yes
+Besan Ladoo,Veg,"Besan, Ghee, Sugar",260,5,34,12,Yes
+Phirni,Veg,"Rice, Milk, Sugar, Cardamom",260,7,38,8,Yes
+Bhel Puri,Veg,"Murmura, Sev, Onion, Tamarind chutney",260,6,42,7,Yes
+Besan Ladoo,Veg,"Besan, Ghee, Sugar",260,5,34,12,Yes
+Phirni,Veg,"Rice, Milk, Sugar, Cardamom",260,7,38,8,Yes
+Thandai,Veg,"Milk, Almonds, Fennel, Sugar, Spices",260,8,28,10,Yes
+Chikoo Shake,Veg,"Milk, Chikoo, Sugar",260,6,48,7,Yes
+Rasmalai,Veg,"Chhena, Milk, Sugar, Cardamom",260,8,32,8,Yes
+Bhelpuri,Veg,"Murmura, Sev, Onion, Tamarind",260,6,42,7,Yes
+Chicken Pickle,Nonveg,"Chicken, Oil, Spices",260,22,5,12,Yes
+Naan,veg,"Maida, yogurt, yeast, milk, ghee",260,6,45,6,No
+Egg Kurma,nonveg,"egg, coconut, spices",261.2,13.9,7.2,17.3,Yes
+Masoor Dal (Low Fat),vegan,"masoor dal, tomato, spices, turmeric",261.78,16.31,29.12,6.83,Yes
+Aloo Gobi (Tandoori),veg,"potato, cauliflower, smoked spice",261.94,5.52,23.15,14.31,Yes
+Karela Sabzi (South Indian),vegan,"karela, coconut, curry leaves",263.31,7.13,24.02,14.36,Yes
+Karela Sabzi (With Peanuts),vegan,"karela, peanuts, spices",263.74,7.16,23.94,14.93,Yes
+Baingan Bharta (With Curd),veg,"eggplant, curd, tomato",263.82,7.46,22.16,15.37,Yes
+Toor Dal (Low Oil),vegan,"toor dal, turmeric, tomato, garlic",265.32,14.85,29.76,6.41,Yes
+Prawn Masala Dry,nonveg,"prawns, garlic, curry leaves",265.4,22.7,4.9,15.1,Yes
+Prawn Cutlet,nonveg,"prawns, bread crumbs, spices",265.5,19.6,12.1,14.3,Yes
+Egg Drop Curry,nonveg,"egg, tomato puree, spices",266.1,14.9,7.2,16.5,Yes
+Karela Sabzi (With Grated Coconut),vegan,"karela, coconut, mustard seeds",266.42,7.21,23.86,14.28,No
+Aloo Gobi,veg,"potato, cauliflower, spices",267.34,5.78,23.92,14.56,Yes
+Fish in Mustard Sauce,nonveg,"fish, mustard, green chili",267.8,23.1,5.3,15.9,Yes
+Egg Curry Kerala Style,nonveg,"egg, coconut, curry leaves",268.5,12.4,6.1,18.7,Yes
+Baingan Bharta (With Coconut),vegan,"eggplant, coconut, tomato",268.59,7.51,22.39,15.72,No
+Baingan Bharta (Spicy),vegan,"eggplant, tomato, chili, spices",268.64,7.71,31.98,11.67,Yes
+Fish Curry (Bengali),nonveg,"fish, mustard, nigella seeds",268.9,23.2,7.1,16.4,Yes
+Karela Sabzi (With Coconut),vegan,"karela, coconut, mustard seeds",269.13,7.24,24.15,14.51,No
+Fish Tikka,nonveg,"fish, yogurt, tandoori spices",269.7,24.8,5.5,15.9,Yes
+Aloo Gobi (Spicy),veg,"potato, cauliflower, chili",269.78,5.64,24.27,14.43,Yes
+Avial,Veg,"Mixed vegetables, Coconut, Yogurt, Spices",270,6,28,11,Yes
+Payasam,Veg,"Rice, Jaggery, Coconut milk",270,6,42,7,Yes
+Payasam,Veg,"Rice, Jaggery, Coconut milk",270,6,42,7,Yes
+Pineapple Sheera,Veg,"Rava, Pineapple, Sugar, Ghee",270,6,40,9,Yes
+Lacha Naan,veg,"Maida, ghee, milk, yeast",270,5,45,7,No
+Tandoori Chicken,nonveg,"chicken, yogurt, tandoori masala",270.9,27.4,4.2,14.9,Yes
+Toor Dal (No Onion),vegan,"toor dal, tomato, turmeric, spices",271.88,14.73,28.36,6.87,Yes
+Aloo Gobi (With Garlic),veg,"potato, cauliflower, garlic",272.58,5.84,24.18,14.91,Yes
+Fish Tandoori,nonveg,"fish, tandoori masala, yogurt",272.8,25.4,5.6,14.5,Yes
+Kootu Curry (Low Fat),veg,"banana, chana, minimal coconut, turmeric",273.67,10.05,27.68,8.16,Yes
+Tandoori Pomfret,nonveg,"pomfret, lemon juice, masala",273.8,25.2,4.8,16.5,Yes
+Medu Vada,veg,"urad dal, black pepper, oil",274.1,9.4,19.3,17.7,No
+Aloo Gobi (With Peas),veg,"potato, cauliflower, green peas",274.11,5.77,25.36,14.69,Yes
+Egg Curry Kerala Style,nonveg,"egg, coconut, curry leaves",274.5,14.7,6.9,17.9,Yes
+Karela Sabzi (With Sesame),vegan,"karela, sesame, spices",274.63,7.28,24.57,14.97,Yes
+Prawn Vindaloo,nonveg,"prawns, vinegar, spices",275.6,22.4,8.9,16.1,Yes
+Vegetable Stew (Low Fat),vegan,"potato, carrot, thin coconut milk, spices",275.66,7.83,28.96,9.02,Yes
+Anda Ghotala,nonveg,"egg, spices, green chili",276.3,16.4,5.7,17.2,Yes
+Fish Thoran,nonveg,"fish, coconut, mustard seeds",276.4,22.5,5.3,17.1,Yes
+Karela Sabzi (With Yogurt),veg,"karela, curd, masala",276.41,7.32,23.74,15.89,Yes
+Fish Curry,nonveg,"fish, mustard, tomato, spices",276.8,22.3,7.4,18.2,Yes
+Fish Curry (Goan),nonveg,"fish, coconut, kokum",276.8,22.9,8.1,17.3,Yes
+Pongal,veg,"rice, moong dal, pepper, ghee",278.4,6.9,28.5,13.1,Yes
+Coconut Sevai,vegan,"rice noodles, grated coconut",278.4,4.1,36.5,12.2,Yes
+Fish Curry Tamil Style,nonveg,"fish, tomato, mustard seeds",278.6,24.3,6.7,16.2,Yes
+Aloo Gobi (Gravy),veg,"potato, cauliflower, tomato",278.73,5.86,23.74,15.03,Yes
+Pesarattu,Vegan,"Green gram, Ginger, Green chilli",280,12,48,5,Yes
+Curd Rice,Vegetarian,"Rice, Curd, Curry leaves",280,7,50,6,Yes
+Egg Curry,Nonveg,"Eggs, Onion, Tomato, Spices",280,16,10,20,Yes
+Khichdi,Veg,"Rice, Moong dal, Ghee, Spices",280,9,48,7,Yes
+Thalipeeth,Veg,"Multigrain flour, Onion, Spices",280,8,40,8,Yes
+Shrikhand,Veg,"Curd, Sugar, Saffron",280,7,38,9,Yes
+Kappa Curry,Veg,"Tapioca, Coconut, Spices",280,3,60,6,Yes
+Curd Vada,Veg,"Urad dal, Curd, Spices",280,10,34,9,Yes
+Aloo Posto,Veg,"Potato, Poppy seeds, Mustard oil",280,6,32,12,Yes
+Macher Paturi,Nonveg,"Fish, Mustard paste, Banana leaf",280,26,5,12,Yes
+Cholar Dal,Veg,"Chana dal, Coconut, Spices",280,11,38,9,Yes
+Motichoor Ladoo,Veg,"Besan, Sugar, Ghee",280,4,36,11,No
+Onion Bhaji,Veg,"Onion, Besan, Oil",280,6,24,15,No
+Dahi Puri,Veg,"Puri, Potato, Curd, Spices",280,7,36,10,Yes
+Aloo Tikki,Veg,"Potato, Spices, Oil",280,6,28,14,No
+Chicken Tikka,Nonveg,"Chicken, Yogurt, Spices",280,26,10,12,Yes
+Shami Kebab,Nonveg,"Mutton, Chana dal, Spices",280,20,12,14,Yes
+Kebabs Lucknawi,Nonveg,"Chicken, Spices, Butter",280,24,12,14,Yes
+Ladoo (Motichoor),Veg,"Besan, Ghee, Sugar",280,4,36,11,No
+Cham Cham,Veg,"Chhena, Sugar syrup, Food color",280,6,46,6,No
+Kheer,Veg,"Rice, Milk, Sugar, Cardamom",280,8,42,7,Yes
+Kulfi,Veg,"Milk, Sugar, Cardamom, Nuts",280,7,30,10,Yes
+Kharvas,Veg,"Colostrum milk, Sugar, Cardamom",280,9,32,10,Yes
+Falooda Drink,Veg,"Milk, Rose syrup, Sabja, Vermicelli",280,6,40,9,Yes
+Kalakand,Veg,"Milk, Sugar, Cardamom",280,7,32,10,Yes
+Singori,Veg,"Khoya, Sugar, Wrapped in leaf",280,6,36,10,Yes
+Dahi Bhalla,Veg,"Urad dal, Curd, Spices",280,9,36,8,Yes
+Mutton Pickle,Nonveg,"Mutton, Oil, Spices",280,20,6,15,Yes
+Garlic Naan,veg,"Maida, garlic, yogurt, yeast, butter",280,6,48,7,No
+Cheese Paratha,veg,"Wheat flour, cheese, chili, ghee",280,9,30,12,No
+Stuffed Kulcha,veg,"Maida, potato/paneer, chili, ghee",280,7,42,8,No
+Chicken Pakora,nonveg,"chicken, gram flour, spices",280.4,22.8,10.6,17.5,No
+Karela Sabzi (Fried),vegan,"karela, oil, masala",281.96,6.91,26.35,15.84,No
+Pomfret Masala Curry,nonveg,"pomfret, tomato, mustard",282.2,24.7,6.5,17.1,Yes
+Karam Dosa,vegan,"rice batter, red chili chutney",282.7,5.8,34.2,12.4,Yes
+Prawn Bhuna,nonveg,"prawns, tomato, chili",284.1,22.6,5.9,17.2,Yes
+Fish Pulusu,nonveg,"fish, tamarind, onion",284.1,24.7,6.5,17.9,Yes
+Kootu Curry (No Coconut),veg,"raw banana, chana, mustard, spices",284.13,9.91,28.74,9.34,Yes
+Toor Dal (Home Style),vegan,"toor dal, onion, chili, cumin",284.17,15.32,31.55,7.93,Yes
+Tomato Bath,veg,"rice, tomato, spices",284.6,5.3,39.8,11.2,Yes
+Chana Sundal (Low Fat),vegan,"chickpeas, spices, curry leaves, mustard",284.94,13.12,27.01,7.94,Yes
+Fish Curry Andhra Style,nonveg,"fish, tamarind, curry leaves",285.3,23.1,6.4,17.9,Yes
+Chicken Saagwala,nonveg,"chicken, spinach, spices",285.4,24.2,6.1,15.6,Yes
+Pomfret Fry,nonveg,"pomfret, semolina, turmeric",285.7,24.5,5.8,17.6,Yes
+Pomfret Fry,nonveg,"pomfret, semolina, lemon",286.4,24.7,5.3,17.3,Yes
+Pongal (No Ghee),vegan,"rice, moong dal, pepper, cumin",286.73,9.37,39.74,6.82,Yes
+Aloo Gobi (Low Fat),veg,"potato, cauliflower, garlic, tomato",287.29,11.86,35.97,8.71,Yes
+Idiyappam with Stew,veg,"rice noodles, vegetable stew",287.3,5.8,38.6,11.4,Yes
+Prawn Avial,nonveg,"prawns, coconut, mixed vegetables",287.3,22.1,8.4,17.2,Yes
+Baingan Bharta (Smoky),vegan,"eggplant, tomato, ghee, spices",287.32,8.17,29.84,12.73,Yes
+Methi Chicken,nonveg,"chicken, fenugreek leaves, spices",287.6,26.1,5.7,16.8,Yes
+Fish Amritsari,nonveg,"fish, besan, ajwain, spices",288.3,24.1,9.5,16.3,Yes
+Tandoori Chicken Wings,nonveg,"chicken wings, yogurt, spices",288.4,25.3,3.7,18.2,Yes
+Kadhi Pakora (Low Fat),veg,"gram flour, yogurt, chili, garlic",288.62,13.65,36.42,9.58,Yes
+Aloo Gobi (With Butter),veg,"potato, cauliflower, butter",288.79,5.91,24.63,15.89,No
+Prawn Sukka,nonveg,"prawns, grated coconut, curry leaves",289.6,22.9,5.4,18.7,Yes
+Fish Chettinad Curry,nonveg,"fish, curry leaves, black pepper",289.6,23.2,7.1,17.8,Yes
+Fish Molee,nonveg,"fish, coconut milk, pepper",289.7,23.6,7.2,18.3,Yes
+Basundi,Veg,"Milk, Sugar, Cardamom, Saffron",290,8,36,8,Yes
+Patishapta,Veg,"Maida, Jaggery, Coconut, Khoya",290,6,40,9,Yes
+Anarsa,Veg,"Rice flour, Jaggery, Poppy seeds",290,5,44,9,Yes
+Aloo Chaat,Veg,"Potato, Chutneys, Spices",290,5,48,10,No
+Paneer Tikka,Veg,"Paneer, Yogurt, Spices",290,16,14,18,Yes
+Amritsari Kulcha,veg,"Maida, potato, spices, ghee",290,6,44,9,No
+Aloo Gobi (Low Oil),vegan,"potato, cauliflower, turmeric",290.12,7.62,24.34,16.74,Yes
+Fish Moilee,nonveg,"fish, coconut milk, curry leaves",292.4,22.6,6.9,18.2,Yes
+Masoor Dal (Spicy),vegan,"masoor dal, garlic, tomato, spices",292.44,17.82,31.89,9.47,Yes
+Prawn Gassi,nonveg,"prawns, coconut, red chili",292.5,22.1,5.6,18.4,Yes
+Chicken Cutlet,nonveg,"minced chicken, breadcrumbs, spices",294.1,20.3,11.2,18.4,No
+Pongal (Thin Consistency),veg,"rice, dal, pepper, ghee",294.11,9.28,38.92,9.26,Yes
+Nethili Fry,nonveg,"anchovy fish, semolina, spices",294.5,21.7,5.2,18.3,Yes
+Vegetable Stew (No Oil),vegan,"potato, beans, pepper, curry leaves",294.82,7.56,32.13,8.41,Yes
+Egg Uthappam,nonveg,"egg, rice batter, onion",295.1,10.7,29.5,13.6,Yes
+Egg Dosa,nonveg,"egg, dosa batter, black pepper",295.3,11.5,29.1,14.2,No
+Rajma (Low Fat),veg,"kidney beans, onion, tomato, spices",295.34,17.42,40.19,9.28,Yes
+Fish Cutlet,nonveg,"fish, potato, breadcrumb",295.4,18.2,13.8,16.7,No
+Prawn Kolhapuri,nonveg,"prawns, onion, Kolhapuri masala",295.6,22.7,6.9,17.8,Yes
+Chana Sundal (No Coconut),vegan,"chickpeas, mustard seeds, turmeric, chili",295.67,13.33,27.69,9.37,Yes
+Toor Dal (With Veggies),vegan,"toor dal, bottle gourd, tomato, turmeric",295.81,15.68,30.21,8.22,Yes
+Fish Pakora,nonveg,"fish, gram flour, ajwain",296.2,18.3,11.9,17.2,No
+Pongal (Low Fat),veg,"rice, moong dal, pepper, minimal ghee",296.38,9.42,41.18,8.14,Yes
+Egg Toast,nonveg,"bread, egg, butter",296.7,11.2,27.3,16.7,No
+Kootu Curry (With Pumpkin),veg,"pumpkin, black chana, coconut, curry leaves",297.88,10.37,29.41,10.42,Yes
+Chicken Do Pyaza,nonveg,"chicken, onions, tomato",298.1,25.3,8.1,17.6,Yes
+Palak Paneer (Low Fat),veg,"paneer, spinach, onion, spices",298.42,19.23,27.18,12.78,Yes
+Prawn Masala Gravy,nonveg,"prawns, tomato, onion",298.6,22.4,8.3,18.4,Yes
+Masoor Dal (With Veggies),vegan,"masoor dal, carrot, tomato, spices",298.65,17.04,31.52,8.22,Yes
+Chicken Sukka,nonveg,"chicken, dry coconut, curry leaves",298.7,25.9,6.4,17.6,Yes
+Prawn Curry (Kerala),nonveg,"prawns, coconut, mustard seeds",298.7,21.3,7.4,19.8,Yes
+Chicken Stew Kerala Style,nonveg,"chicken, coconut milk, spices",298.7,23.6,8.3,18.5,Yes
+Rajma Masala (Low Oil),vegan,"kidney beans, tomato, spices, garlic",298.76,14.03,35.74,7.85,Yes
+Egg Spring Roll,nonveg,"egg, wrap, cabbage",298.9,12.6,24.7,16.2,No
+Uttapam,Veg,"Rice, Urad dal, Vegetables",300,8,52,8,Yes
+Handvo,Veg,"Rice, Lentils, Bottle gourd, Spices",300,11,48,9,Yes
+Fish Fry,Nonveg,"Fish, Spices, Oil",300,32,4,18,Yes
+Obbattu (Holige),Veg,"Chana dal, Jaggery, Flour",300,6,52,8,Yes
+Jalebi,Veg,"Maida, Sugar syrup, Ghee",300,3,65,10,No
+Malpua,Veg,"Maida, Sugar, Fennel",300,6,45,12,No
+Sev Puri,Veg,"Puri, Potato, Onion, Sev, Spices",300,6,42,12,No
+Tandoori Chicken,Nonveg,"Chicken, Yogurt, Spices",300,28,8,14,Yes
+Coconut Barfi,Veg,"Coconut, Milk, Sugar",300,5,32,14,Yes
+Malpua,Veg,"Maida, Fennel, Sugar, Ghee",300,6,45,12,No
+Imarti,Veg,"Urad dal, Sugar syrup",300,7,52,10,No
+Jalebi,Veg,"Maida, Sugar syrup, Ghee",300,3,65,10,No
+Butter Naan,veg,"Maida, butter, yogurt, yeast",300,6,50,9,No
+Chicken Cafreal,nonveg,"chicken, coriander, green chili",301.1,27.2,6.2,18.9,Yes
+Pongal (Simple),veg,"rice, moong dal, salt, pepper",301.47,9.23,39.41,9.94,Yes
+Aloo Gobi (With Paneer),veg,"potato, cauliflower, paneer",301.86,8.02,25.94,16.45,No
+Toor Dal (Spicy),vegan,"toor dal, green chili, garlic, cumin",302.46,16.41,31.93,9.06,Yes
+Aloo Gobi (Dry),vegan,"potato, cauliflower, cumin",303.67,7.94,25.76,17.88,Yes
+Pongal (Ayurvedic),veg,"brown rice, dal, pepper, cumin",304.42,10.11,36.89,9.13,Yes
+Palak Paneer (No Onion),veg,"paneer, spinach, tomato, spices",305.39,18.98,28.56,13.49,Yes
+Chicken Stew,nonveg,"chicken, coconut milk, spices",305.5,21.6,7.2,22.1,Yes
+Chana Sundal (With Lemon),vegan,"chickpeas, lemon, chili, mustard",305.71,13.53,29.73,9.81,Yes
+Aloo Gobi (No Onion),veg,"potato, cauliflower, tomato, spices",305.81,12.48,37.62,10.29,Yes
+Prawn Malai Curry,nonveg,"prawns, coconut milk, cardamom",308.5,21.9,6.5,21.4,Yes
+Pongal (Wheat Based),veg,"broken wheat, dal, ghee",308.57,10.23,36.74,10.58,Yes
+Rajma Masala (No Onion),vegan,"kidney beans, tomato, cumin, ginger",308.61,14.92,33.16,8.76,Yes
+Fish Kofta Curry,nonveg,"fish balls, onion gravy",309.1,23.4,7.4,19.9,Yes
+Chana Sundal (Spicy),vegan,"chickpeas, mustard, curry leaves, chili",309.11,13.88,28.41,10.76,Yes
+Egg Appam,nonveg,"egg, fermented rice batter, coconut milk",309.5,11.2,33.8,14.3,Yes
+Chicken Drumstick Roast,nonveg,"chicken leg, spices, oil",309.7,28.9,4.2,19.3,Yes
+Pongal (With Ragi),veg,"ragi, dal, ghee, pepper",309.82,10.46,35.82,9.92,Yes
+Dosa,Veg,"Rice,Urad dal, Fenugreek",310,9,55,6,Yes
+Undhiyu,Veg,"Mixed vegetables, Spices, Methi",310,8,45,14,Yes
+Chhena Poda,Veg,"Chhena, Sugar, Cardamom",310,8,28,15,Yes
+Amritsari Kulcha,Veg,"Maida, Potato, Spices",310,7,50,9,No
+Chhena Poda,Veg,"Chhena, Sugar, Cardamom",310,8,28,15,Yes
+Obbattu/Holige,Veg,"Chana dal, Jaggery, Flour",310,6,52,8,Yes
+Chicken Paratha,nonveg,"Wheat flour, chicken keema, chili, spices",310,16,30,12,No
+Aloo Gobi (With Onion),vegan,"potato, cauliflower, onion",310.35,8.19,26.54,18.37,Yes
+Egg Kofta Curry,nonveg,"egg, onion, gram flour, masala",310.6,17.8,9.1,19.6,No
+Fish Fry,nonveg,"fish, semolina, spices",310.8,23.5,8.4,20.7,No
+Kootu Curry (Kerala Style),veg,"raw banana, black chana, coconut, spices",311.64,10.84,30.62,11.98,Yes
+Pongal (No Onion/Garlic),veg,"rice, dal, black pepper, cumin",311.88,9.51,39.26,10.01,Yes
+Masala Dosa,veg,"fermented batter, potato masala",312.4,7.8,35.2,14.3,Yes
+Aloo Gobi (Dry),veg,"potato, cauliflower, tomato, spices",312.44,12.03,38.89,11.02,Yes
+Aloo Gobi,vegan,"potato, cauliflower, spices",312.45,8.21,26.98,18.65,Yes
+Vegetable Stew (Light),vegan,"carrot, beans, coconut milk, curry leaves",312.48,8.27,30.84,12.46,Yes
+Chana Sundal (Dry),vegan,"chickpeas, coconut, mustard seeds, curry leaves",312.53,13.62,29.47,10.23,Yes
+Vegetable Biryani South Indian,veg,"basmati rice, veggies, spices",312.7,6.4,41.6,12.9,Yes
+Rajma (Low Oil),veg,"rajma, tomato, cumin",312.78,12.67,34.43,11.81,Yes
+Andhra Chicken Fry,nonveg,"chicken, curry leaves, chili",312.8,26.4,5.1,20.3,Yes
+Chicken Bharta,nonveg,"shredded chicken, egg, masala",312.9,26.7,7.8,18.5,Yes
+Rava Kesari,veg,"semolina, sugar, ghee",312.9,4.2,36.8,16.9,No
+Aloo Gobi (With Methi),vegan,"potato, cauliflower, methi",314.56,8.27,26.81,18.65,Yes
+Kootu Curry (With Green Gram),veg,"green gram, coconut, turmeric, banana",314.59,11.18,29.53,11.39,Yes
+Masoor Dal (Smoky),vegan,"masoor dal, ghee, garlic, spices",314.72,17.89,32.17,10.29,Yes
+Pongal (With Moong Sprouts),veg,"sprouted moong, rice, pepper",314.83,10.88,38.19,9.49,Yes
+Egg Paratha,nonveg,"egg, whole wheat flour, ghee",315.5,11.7,28.4,17.6,No
+Chicken Masala Dry,nonveg,"chicken, garam masala, onion",315.7,27.4,6.2,19.8,Yes
+Aloo Gobi (Spicy),vegan,"potato, cauliflower, chili",315.91,8.33,27.15,18.92,Yes
+Aloo Gobi (With Garlic),vegan,"potato, cauliflower, garlic",316.02,8.31,26.92,18.76,Yes
+Chole (No Onion Garlic),veg,"chickpeas, tomato, cumin",316.74,11.89,35.76,12.97,Yes
+Pongal (Without Rice),veg,"millets, dal, cumin, ghee",316.91,10.62,37.54,10.32,Yes
+Baingan Bharta (With Roti),vegan,"eggplant, onion, tomato, spices",317.46,9.14,35.29,14.06,Yes
+Chana Sundal (Home Style),vegan,"chickpeas, coconut, onion, mustard",317.46,13.98,30.61,10.98,Yes
+Toor Dal (Smoky),vegan,"toor dal, ghee, tomato, spices",317.73,16.22,32.16,10.91,Yes
+Aloo Gobi (With Capsicum),vegan,"potato, cauliflower, capsicum",318.17,8.35,27.04,18.89,Yes
+Pongal (Millet),veg,"millets, moong dal, spices",318.45,10.37,39.24,9.67,Yes
+Egg Fried Rice,nonveg,"egg, rice, spring onion",318.5,12.6,35.4,14.1,No
+Kadhi Pakora (With Veggies),veg,"gram flour, yogurt, carrot, beans",318.74,15.06,37.54,12.1,Yes
+Kadai Chicken,nonveg,"chicken, capsicum, onion",319.5,26.9,7.4,18.7,Yes
+Pongal (With Drumstick Leaves),veg,"rice, dal, moringa, pepper",319.56,10.21,40.12,9.63,Yes
+Rajma (Dry),veg,"rajma, dry masala",319.74,12.91,34.15,12.93,Yes
+Rajma Masala (With Veggies),vegan,"kidney beans, carrot, onion, garlic",319.84,14.76,34.45,9.08,Yes
+Aloo Gobi (With Tomato),vegan,"potato, cauliflower, tomato",319.84,8.41,27.67,19.04,Yes
+Aloo Paratha,Veg,"Wheat flour, Potato, Ghee",320,7,54,10,Yes
+Fish Curry,Nonveg,"Fish, Tamarind, Coconut, Spices",320,28,12,18,Yes
+Pulao,Veg,"Rice, Vegetables, Spices",320,7,60,8,Yes
+Sattu Paratha,Veg,"Wheat flour, Sattu, Spices",320,11,50,7,Yes
+Machher Jhol,Nonveg,"Fish, Mustard oil, Spices",320,30,8,14,Yes
+Carrot Halwa,Veg,"Carrot, Milk, Sugar, Ghee",320,6,38,14,Yes
+Samosa,Veg,"Maida, Potato, Spices, Oil",320,6,34,16,No
+Seekh Kebab,Nonveg,"Mutton, Spices, Onion",320,24,10,20,Yes
+Chicken 65,Nonveg,"Chicken, Spices, Oil",320,26,10,16,No
+Gajar Ka Halwa,Veg,"Carrot, Milk, Sugar, Ghee",320,6,38,14,Yes
+Milk Barfi,Veg,"Khoya, Sugar, Cardamom",320,7,35,12,Yes
+Falooda,Veg,"Milk, Vermicelli, Sabja, Rose syrup",320,8,50,9,Yes
+Adhirasam,Veg,"Rice flour, Jaggery, Ghee",320,4,52,10,No
+Ragda Pattice,Veg,"White peas, Potato, Chutneys",320,9,50,9,Yes
+Keema Paratha,nonveg,"Wheat flour, minced mutton, chili, spices",320,15,32,14,No
+Egg Paratha,nonveg,"egg, wheat flour, ghee",320.2,12.4,32.8,16.2,No
+Chicken Tikka Masala,nonveg,"chicken, tomato, cream, spices",320.4,26.8,12.5,18.7,Yes
+Kootu Curry (Spicy),veg,"black chana, chili, banana, coconut",321.39,11.07,30.58,12.73,No
+Aloo Gobi (With Carrot),vegan,"potato, cauliflower, carrot",321.43,8.47,27.31,19.08,Yes
+Kadhi Pakora (Dry Pakora),veg,"gram flour, yogurt, onion, turmeric",322.51,12.99,38.76,13.29,Yes
+Rajma (No Onion),veg,"kidney beans, tomato, ghee, spices",322.6,16.09,38.37,12.98,Yes
+Chicken Pakora,nonveg,"chicken, gram flour, ajwain",322.6,20.3,11.1,21.5,No
+Pongal (With Green Gram),veg,"green gram, rice, ghee",322.66,10.54,38.13,10.87,Yes
+Palak Paneer (Spicy),veg,"paneer, spinach, green chili, garlic",322.79,20.48,24.79,14.03,Yes
+Chicken Sevai,nonveg,"chicken, rice noodles, mustard",323.6,19.1,33.8,13.4,Yes
+Pongal (With Turmeric),veg,"rice, dal, turmeric, pepper",323.69,9.48,40.31,11.13,Yes
+Rajma (No Onion Garlic),veg,"rajma, tomato, cumin",323.78,12.51,34.69,12.34,Yes
+Chicken Upma,nonveg,"chicken, semolina, curry leaves",324.2,19.3,30.6,13.9,Yes
+Chole (Dry),veg,"chickpeas, dry masala",324.79,12.02,36.11,13.62,Yes
+Chicken 65,nonveg,"chicken, yogurt, spices",325.2,28.9,8.7,18.4,No
+Chicken Maggi,nonveg,"noodles, chicken, chili flakes",325.2,15.6,36.4,12.5,No
+Chicken Chettinad,nonveg,"chicken, pepper, onion, spices",325.5,28.4,6.3,19.1,Yes
+Chicken Khichdi,nonveg,"rice, lentils, chicken, spices",325.5,22.4,35.6,10.8,Yes
+Pongal (With Vegetables),veg,"rice, moong dal, carrot, beans",327.91,10.12,40.37,10.22,Yes
+Prawn Fried Rice,nonveg,"prawns, rice, soy sauce",328.1,21.3,34.8,12.8,Yes
+Chole (With Palak),veg,"chickpeas, spinach, tomato",328.15,12.21,36.84,13.94,Yes
+Egg Sandwich,nonveg,"boiled eggs, bread, mayonnaise",328.3,13.1,33.7,17.5,No
+Chana Sundal (With Onion),vegan,"chickpeas, onion, green chili, coconut",328.44,14.09,30.78,11.55,Yes
+Fish Moilee,nonveg,"fish, coconut milk, green chili",328.7,25.3,6.5,21.4,Yes
+Rajma Masala (Punjabi),vegan,"kidney beans, tomato, ginger, garlic",329.46,15.22,39.87,10.15,Yes
+Medu Vada,Veg,"Urad dal, Curry leaves, Spices",330,11,40,14,Yes
+Litti Chokha,Veg,"Wheat flour, Sattu, Brinjal, Tomato",330,10,55,8,Yes
+Pongal (With Onion),veg,"rice, dal, onion, ghee",331.15,9.74,41.38,12.67,Yes
+Pongal (Ginger Flavored),veg,"rice, dal, ginger, ghee",332.18,9.61,40.76,12.84,Yes
+Toor Dal (Tadka),vegan,"toor dal, garlic, ghee, mustard",332.29,16.14,32.42,11.92,Yes
+Vegetable Khichdi (No Ghee),veg,"rice, dal, turmeric, spices",332.74,10.42,43.91,9.33,Yes
+Rajma (Methi),veg,"rajma, fenugreek, tomato",333.64,13.11,35.17,13.27,Yes
+Egg Masala Dosa,nonveg,"egg, dosa batter, chutney",334.6,13.2,31.5,17.6,No
+Pongal (Spicy),veg,"rice, moong dal, black pepper, green chili",335.13,9.94,42.06,11.53,Yes
+Rajma Masala (Spicy),vegan,"kidney beans, chili, onion, garlic",335.57,15.43,36.91,10.56,Yes
+Chicken Xacuti,nonveg,"chicken, poppy seeds, coconut",335.7,27.8,6.7,22.3,Yes
+Chicken Uthappam,nonveg,"chicken, rice batter, onion",336.2,18.9,32.1,15.8,Yes
+Chole (Home Style),veg,"chickpeas, onion, tomato, spices",336.24,15.04,42.58,14.77,Yes
+Chole (With Onion),veg,"chickpeas, onion, chili",336.47,12.36,37.49,14.23,Yes
+Aloo Gobi (Home Style),veg,"potato, cauliflower, onion, spices",336.61,13.71,42.45,13.88,Yes
+Rajma (With Palak),veg,"rajma, spinach, tomato",336.81,13.05,35.77,13.51,Yes
+Fish Tikka Masala,nonveg,"fish, tomato, cream",337.2,25.6,7.8,22.5,No
+Kootu Curry (Home Style),veg,"banana, chana, coconut, jaggery",337.22,10.62,31.94,13.68,No
+Mutton Cutlet,nonveg,"minced mutton, potato, breadcrumb",338.4,21.9,13.7,20.4,No
+Pongal (With Garlic),veg,"rice, dal, garlic, ghee",339.67,9.83,42.13,13.31,Yes
+Pongal (Jeera Pepper),veg,"rice, dal, cumin, pepper",339.74,9.72,41.91,12.96,Yes
+Sabudana Khichdi,Veg,"Sago, Peanuts, Potato, Spices",340,6,62,9,Yes
+Prawn Curry,Nonveg,"Prawns, Coconut, Tamarind, Spices",340,28,9,15,Yes
+Balushahi,Veg,"Maida, Ghee, Sugar syrup",340,5,52,14,No
+Chaat Papdi,Veg,"Maida, Potato, Curd, Sev, Spices",340,8,42,15,No
+Balushahi,Veg,"Maida, Ghee, Sugar syrup",340,5,52,14,No
+Karanji/Gujiya,Veg,"Maida, Khoya, Dry fruits, Sugar",340,7,48,12,No
+Rajma (Tomato Gravy),veg,"rajma, tomato, ginger",340.42,13.39,35.86,13.62,Yes
+Chole (With Garlic),veg,"chickpeas, garlic, tomato",341.63,12.49,37.93,14.51,Yes
+Egg Noodles,nonveg,"egg, noodles, cabbage",342.1,14.7,37.2,13.8,No
+Rajma (Spicy),veg,"rajma, chili, tomato",342.19,13.48,36.24,13.87,Yes
+Pongal (Traditional),veg,"rice, moong dal, ghee, pepper",342.27,9.68,42.51,13.45,Yes
+Egg Biryani,nonveg,"egg, basmati rice, fried onion",342.4,15.6,46.2,12.5,Yes
+Vegetable Khichdi (No Onion),veg,"rice, dal, turmeric, cumin",342.74,10.86,43.13,10.84,Yes
+Pongal (Protein Rich),veg,"toor dal, moong dal, rice, spices",343.26,11.26,40.93,12.27,Yes
+Rajma (Punjabi),veg,"kidney beans, onion, tomato, spices",344.67,13.89,36.82,13.91,Yes
+Chicken Frankie,nonveg,"chicken, roti, cabbage, mayo",345.2,19.7,26.3,20.3,No
+Chicken Chettinad,nonveg,"chicken, curry leaves, black pepper",345.7,27.6,6.4,22.3,Yes
+Fish Pulao,nonveg,"fish, rice, spices",345.8,22.4,44.1,11.5,Yes
+Masoor Dal (Tandoori),vegan,"masoor dal, ghee, onion, spices",346.11,18.89,33.95,13.76,No
+Chana Sundal (Tandoori),vegan,"chickpeas, ghee, chili, spices",346.79,14.71,30.24,13.64,No
+Chole (Punjabi),veg,"chickpeas, tomato, spices",347.25,12.64,38.23,14.73,Yes
+Rajma Masala (Tandoori),vegan,"kidney beans, tomato, smoked spices",347.48,15.58,35.67,11.92,Yes
+Palak Paneer (Dry),veg,"paneer, spinach, tomato, onion",347.55,18.31,30.62,16.91,Yes
+Pongal (Pepper Heavy),veg,"rice, dal, ghee, lots of pepper",348.11,9.55,41.66,13.88,Yes
+Chana Masala (Low Oil),vegan,"chickpeas, cumin, tomato",348.42,13.15,30.02,19.76,Yes
+Chicken Manchurian,nonveg,"chicken, soy sauce, garlic",348.6,22.7,15.4,21.2,No
+Pongal (With Milk),veg,"rice, milk, dal, cardamom",348.77,8.42,47.84,11.37,No
+Kootu Curry (Tandoori Style),veg,"banana, chana, spices, smoked coconut",348.78,11.03,30.77,13.18,Yes
+Vegetable Khichdi (Low Fat),veg,"rice, dal, vegetables, less ghee",349.28,10.97,44.12,11.38,Yes
+Rajma (Masala),veg,"rajma, masala mix, chili",349.28,13.58,36.92,14.08,Yes
+Chicken Nihari,nonveg,"chicken, ginger, ghee",349.7,25.3,8.4,23.1,No
+Rajma Chawal,Veg,"Rajma, Rice, Onion, Tomato",350,13,62,8,Yes
+Kadhi Chawal,Veg,"Curd, Besan, Rice, Spices",350,9,54,10,Yes
+Rabri,Veg,"Milk, Sugar, Cardamom",350,9,45,14,Yes
+Kachori,Veg,"Maida, Dal filling, Oil",350,7,32,18,No
+Rabri,Veg,"Milk, Sugar, Cardamom",350,9,45,14,Yes
+Double Ka Meetha,Veg,"Bread, Milk, Sugar, Dry fruits",350,7,40,14,Yes
+Chana Masala (No Onion Garlic),vegan,"chickpeas, tomato, cumin",350.72,13.08,29.89,19.94,Yes
+Rajma (Tandoori),veg,"rajma, smoked spices",351.07,13.36,36.48,14.12,Yes
+Chole (Tandoori),veg,"chickpeas, smoked spice",351.91,12.57,38.11,14.64,Yes
+Chicken Handi,nonveg,"chicken, onion, tomato, cream",352.4,26.5,7.3,24.1,No
+Keema Matar,nonveg,"minced mutton, green peas",353.7,29.2,7.1,23.5,No
+Aloo Gobi (Spicy),veg,"potato, cauliflower, green chili, onion",354.27,14.96,45.36,15.29,Yes
+Vegetable Biryani (No Onion),veg,"rice, tomato, vegetables, spices",354.77,10.03,46.28,11.95,Yes
+Rajma (With Ghee),veg,"rajma, ghee, spices",355.43,13.62,36.91,14.78,No
+Mutton Seekh Kebab,nonveg,"mutton, garlic, chili",355.6,28.8,6.1,23.6,No
+Rajma Masala (Low Oil),vegan,"rajma, tomato, cumin",355.89,13.98,31.56,20.67,Yes
+Pongal (Temple Style),veg,"rice, dal, pepper, cumin, ghee",356.21,9.66,43.29,14.35,Yes
+Methi Malai Chicken,nonveg,"chicken, cream, fenugreek",356.7,27.1,7.3,24.6,No
+Rajma Masala (Home Style),vegan,"kidney beans, tomato, garlic, ghee",356.94,15.09,36.55,12.47,No
+Pongal (Festival),veg,"rice, dal, ghee, pepper, turmeric",357.49,9.77,43.68,14.44,Yes
+Mutton Keema,nonveg,"minced mutton, peas, garam masala",357.5,28.9,8.4,24.7,No
+Vegetable Khichdi (With Jeera),veg,"rice, dal, cumin, ghee",357.64,11.09,42.98,12.31,Yes
+Chana Masala (With Hing),vegan,"chickpeas, asafoetida, tomato",358.19,13.25,30.23,20.59,Yes
+Chicken Schezwan,nonveg,"chicken, schezwan sauce, garlic",358.2,24.3,13.5,22.8,No
+Paneer Butter Masala (Low Fat),veg,"paneer, spices, ghee, peas",359.17,19.82,34.78,18.21,Yes
+Pongal (With Ghee Roasted Spices),veg,"rice, dal, roasted spices, ghee",359.18,9.85,43.61,14.72,Yes
+Rajma (Spicy),veg,"kidney beans, onion, green chili, tomato",359.19,18.26,44.63,14.1,Yes
+Chana Masala (With Mint),vegan,"chickpeas, mint, tomato",359.31,13.28,30.32,20.66,Yes
+Paneer Paratha,Vegetarian,"Wheat flour, Paneer, Spices",360,14,50,12,Yes
+Dal Dhokli,Veg,"Wheat flour, Toor dal, Spices",360,12,58,9,Yes
+Pesarattu Upma,Veg,"Green gram, Rava, Onion, Spices",360,14,58,8,Yes
+Sheer Khurma,Veg,"Milk, Vermicelli, Dates, Nuts",360,9,42,15,Yes
+Sheer Khurma,Veg,"Milk, Vermicelli, Dates, Nuts",360,9,42,15,Yes
+Kathi Roll (Veg),Veg,"Paratha, Paneer/Vegetables, Onion, Spices",360,12,50,12,Yes
+Chana Masala (With Palak),vegan,"chickpeas, spinach, tomato",360.89,13.33,30.45,20.83,Yes
+Rajma (With Butter),veg,"rajma, butter, chili",361.34,13.74,36.55,15.48,No
+Chicken Tikka Roll,nonveg,"chicken tikka, roti, chutney",361.5,25.1,28.2,18.7,No
+Rajma Masala (No Onion Garlic),vegan,"rajma, tomato, hing",361.73,14.11,32.03,21.15,Yes
+Vegetable Khichdi (With Garlic),veg,"rice, dal, garlic, ghee",361.78,11.24,43.37,12.56,Yes
+Kootu Curry (With Ghee),veg,"raw banana, chana, coconut, ghee",362.14,10.75,31.23,15.27,No
+Rajma Masala (Smoky),vegan,"kidney beans, tomato, ghee, spices",362.29,15.21,37.12,12.64,No
+Pongal (With Coconut),veg,"rice, moong dal, coconut, ghee",362.29,9.78,43.24,14.92,No
+Prawn Masala Dosa,nonveg,"prawns, dosa batter, tomato",362.4,17.5,35.2,16.9,No
+Chana Masala (With Kasuri Methi),vegan,"chickpeas, fenugreek, tomato",362.44,13.37,30.68,20.96,Yes
+Palak Paneer (With Tofu),vegan,"spinach, tofu, spices",362.74,14.57,17.03,25.84,Yes
+Chole (With Butter),veg,"chickpeas, butter, spices",362.88,12.72,38.67,15.86,No
+Rajma Masala (With Kasuri Methi),vegan,"rajma, fenugreek, tomato",364.28,14.17,32.28,21.34,Yes
+Chicken Kathi Roll,nonveg,"chicken, wrap, chutney",365.2,24.7,27.3,19.1,No
+Chicken Pulao,nonveg,"chicken, rice, bay leaf",365.4,25.9,32.1,16.4,Yes
+Rajma (With Coconut),veg,"rajma, coconut, masala",365.44,13.25,37.14,15.42,No
+Vegetable Khichdi (Plain),veg,"rice, moong dal, turmeric, ghee",365.62,11.25,44.92,13.65,Yes
+Chicken Egg Roll,nonveg,"chicken, egg, roti, chutney",365.9,22.7,28.4,19.6,No
+Vegetable Khichdi (With Palak),veg,"rice, dal, spinach, spices",367.89,12.01,42.88,12.17,Yes
+Mutton Stew,nonveg,"mutton, coconut milk, spices",368.5,27.5,6.8,25.7,No
+Chana Masala,vegan,"chickpeas, tomato, spices",368.94,13.54,30.84,21.12,Yes
+Chicken Seekh Roll,nonveg,"minced chicken, wrap, chutney",369.8,26.4,26.9,20.5,No
+Masala Dosa,Veg,"Rice, Urad dal, Potato, Spices",370,9,58,11,Yes
+Palak Paneer (Low Fat),veg,"spinach, paneer, low oil",370.48,15.63,17.31,26.45,Yes
+Prawn Biryani,nonveg,"prawns, rice, ghee, masala",370.6,23.7,46.2,13.9,Yes
+Vegetable Khichdi (Spicy),veg,"rice, dal, chili, ghee",371.16,11.53,44.84,13.12,Yes
+Vegetable Biryani (Low Oil),veg,"rice, vegetables, green peas, masala",371.23,10.51,48.99,12.6,Yes
+Rajma Masala (With Spinach),vegan,"rajma, palak, tomato",371.36,14.25,32.48,21.96,Yes
+Chole (Dry),veg,"chickpeas, onion, tomato, ghee",371.43,14.37,43.12,20.1,No
+Chana Masala (Spicy),vegan,"chickpeas, chili, tomato",372.36,13.63,31.27,21.48,Yes
+Keema Pav,nonveg,"minced mutton, pav, onion",372.4,26.9,29.1,20.3,No
+Rajma Masala (With Mint),vegan,"rajma, mint, tomato",372.89,14.29,32.57,22.03,Yes
+Matar Paneer (With Tofu),vegan,"tofu, peas, tomato",373.32,13.76,18.72,27.63,Yes
+Vegetable Khichdi (Green),veg,"rice, dal, spinach, green chili",373.89,11.63,43.79,13.02,Yes
+Mutton Masala Fry,nonveg,"mutton, garlic, green chili",374.3,28.4,6.8,25.7,No
+Chole (With Paneer),veg,"chickpeas, paneer, tomato",374.38,14.23,39.26,16.12,No
+Pongal (With Cashews),veg,"rice, dal, ghee, cashews",374.46,9.69,44.52,15.94,No
+Vegetable Khichdi (Home Style),veg,"rice, moong dal, carrot, peas",374.53,11.33,44.26,12.94,Yes
+Mutton Do Pyaza,nonveg,"mutton, onion, garlic",374.6,28.2,7.1,26.7,No
+Rajma Masala (With Ghee),vegan,"kidney beans, ghee, onion, tomato",374.66,15.69,36.88,13.74,No
+Chana Masala (With Onion),vegan,"chickpeas, onion, tomato",374.71,13.68,31.52,21.65,Yes
+Mutton Kheema,nonveg,"minced mutton, onion, peas",375.7,30.2,5.8,27.9,No
+Egg Kothu Parotta,nonveg,"egg, parotta, onion",376.4,14.8,30.2,22.5,No
+Kadhi Pakora (Punjabi),veg,"gram flour, yogurt, onion, spices",376.43,14.77,42.88,17.64,No
+Rajma Masala,vegan,"kidney beans, tomato, spices",377.21,14.31,32.85,22.18,Yes
+Rajma (With Paneer),veg,"rajma, paneer, tomato",377.95,14.93,37.26,16.02,No
+Mutton Keema Dosa,nonveg,"minced mutton, dosa batter, chutney",378.9,22.4,30.4,19.6,No
+Palak Paneer (With Roti),veg,"paneer, spinach, onion, ghee",378.94,19.9,36.87,19.12,Yes
+Chicken Ghee Roast,nonveg,"chicken, ghee, red chili",379.5,26.8,5.3,27.6,No
+Vegetable Khichdi (With Veggies),veg,"rice, moong dal, beans, carrot",379.84,11.78,45.23,12.72,Yes
+Vada Pav,Veg,"Potato, Bun, Spices",380,8,52,13,No
+Puran Poli,Veg,"Wheat flour, Chana dal, Jaggery",380,9,60,10,Yes
+Bisi Bele Bath,Veg,"Rice, Toor dal, Tamarind, Spices",380,11,65,9,Yes
+Egg Biryani,Nonveg,"Eggs, Rice, Spices",380,16,58,12,Yes
+Ghewar,Veg,"Maida, Sugar, Ghee",380,6,58,15,No
+Ghewar,Veg,"Maida, Sugar, Ghee",380,6,58,15,No
+Shahi Tukda,Veg,"Bread, Milk, Sugar, Ghee",380,6,45,16,No
+Egg Roll,Nonveg,"Paratha, Egg, Onion, Spices",380,14,45,12,Yes
+Pongal (Sweet),veg,"rice, jaggery, ghee, cardamom",381.34,5.63,59.21,13.81,No
+Rajma Masala (Spicy),vegan,"rajma, chili, tomato",381.76,14.42,33.29,22.53,Yes
+Rajma Masala (With Onion),vegan,"rajma, onion, tomato",384.12,14.47,33.54,22.72,Yes
+Vegetable Khichdi (Tandoori),veg,"khichdi, smoked spices, vegetables",384.43,11.86,44.76,13.51,Yes
+Chole (Spicy),veg,"chickpeas, tomato, green chili, onion",384.52,17.61,46.39,18.55,Yes
+Egg Fried Rice,nonveg,"egg, rice, soy sauce, onion",385.5,12.8,49.1,14.2,No
+Chicken Korma,nonveg,"chicken, cashews, cream",385.8,26.5,9.3,28.5,No
+Vegetable Stew (Spicy),vegan,"potato, chili, coconut milk, onion",387.13,9.16,35.71,17.32,No
+Matar Paneer (Low Fat),veg,"paneer, peas, low oil",387.61,14.89,19.67,29.84,Yes
+Mutton Pepper Fry,nonveg,"mutton, black pepper, onion",389.2,28.4,5.6,27.4,No
+Chicken Korma,nonveg,"chicken, cashew, cream",390.1,25.9,6.2,31,No
+Chicken Pulao,nonveg,"chicken, rice, ghee, spices",390.7,26.2,45.5,14.6,Yes
+Chana Masala (With Coconut),vegan,"chickpeas, coconut, masala",391.58,13.79,32.16,22.64,No
+Palak Paneer,veg,"spinach, paneer, spices",392.58,15.91,17.56,28.42,Yes
+Paneer Butter Masala (No Onion),veg,"paneer, ghee, tomato, spices",392.88,21.67,35.24,20.06,Yes
+Vegetable Biryani (With Brown Rice),veg,"brown rice, vegetables, curd",394.84,10.98,48.62,12.87,Yes
+Palak Paneer (With Tomatoes),veg,"spinach, paneer, tomato",394.86,15.92,18.21,28.71,Yes
+Palak Paneer (With Garlic),veg,"spinach, paneer, garlic",395.24,15.84,17.66,28.59,Yes
+Mutton Pepper Fry,nonveg,"mutton, black pepper, curry leaves",395.7,29.6,5.7,28.3,No
+Fish Biryani,nonveg,"fish, basmati rice, fried onion",396.2,27.4,38.5,19.2,No
+Rajma (Tandoori),veg,"kidney beans, tomato, spices, ghee",396.75,19.85,48.92,17.65,No
+Palak Paneer (Spicy),veg,"spinach, paneer, chili",397.12,16.01,17.82,28.97,Yes
+Vegetable Biryani (Low Oil),veg,"rice, veggies, yogurt, minimal oil",397.88,10.27,50.83,12.26,Yes
+Vegetable Khichdi (With Curd),veg,"rice, moong dal, vegetables, curd",398.21,11.61,46.13,14.32,Yes
+Vegetable Stew (With Coconut Milk),vegan,"potato, carrot, coconut milk, spices",398.24,8.91,36.45,18.73,No
+Rajma Masala (With Ghee),veg,"rajma, ghee, masala",398.45,14.58,33.14,24.12,No
+Palak Paneer (With Onion),veg,"spinach, paneer, onion",398.47,15.99,18.43,29.12,Yes
+Vegetable Biryani (Home Style),veg,"rice, carrot, beans, ghee",398.65,11.22,50.73,15.98,No
+Aloo Gobi (Tandoori),veg,"potato, cauliflower, spices, ghee",398.84,15.22,48.75,19.57,No
+Biryani (Veg),Veg,"Rice, Vegetables, Spices",400,8,70,9,Yes
+Luchi Alur Dom,Veg,"Maida, Potato, Spices",400,9,54,16,No
+Moong Dal Halwa,Veg,"Moong dal, Sugar, Ghee",400,8,34,20,No
+Moong Dal Halwa,Veg,"Moong dal, Ghee, Sugar",400,8,34,20,No
+Palak Paneer (With Fenugreek),veg,"spinach, paneer, fenugreek",400.63,16.08,18.12,29.34,Yes
+Matar Paneer (No Onion Garlic),veg,"paneer, peas, tomato",401.26,15.27,19.54,30.62,Yes
+Chole (With Roti),veg,"chickpeas, onion, tomato, ghee",402.15,18.05,51.73,23.97,No
+Prawn Biryani,nonveg,"prawns, basmati rice, fried onions",402.5,27.2,37.5,18.3,No
+Palak Paneer (Tandoori),veg,"spinach, paneer, smoked spices",402.76,16.12,18.01,29.48,Yes
+Mutton Kurma,nonveg,"mutton, coconut paste, garam masala",402.8,29.6,7.3,27.5,No
+Paneer Butter Masala (Low Fat),veg,"paneer, tomato, low oil",403.21,15.76,21.86,29.54,Yes
+Paneer Tikka (Grilled),veg,"paneer, spices, grilled",405.17,19.13,10.72,29.84,No
+Palak Paneer (With Corn),veg,"spinach, paneer, sweet corn",407.92,16.23,19.87,30.12,No
+Rajma Masala (With Coconut),vegan,"rajma, coconut, tomato",408.91,14.63,33.61,25.05,No
+Vegetable Biryani (No Ghee),veg,"rice, veggies, yogurt, spices",409.21,10.56,52.15,13.32,Yes
+Pav Bhaji,Veg,"Potato, Vegetables, Butter, Pav",410,9,58,14,No
+Mutton Rogan Josh,nonveg,"mutton, yogurt, Kashmiri chili",410.4,29.3,8.2,30.1,No
+Mutton Curry (Bengali),nonveg,"mutton, potatoes, mustard oil",410.6,28.4,12.3,30.5,No
+Mutton Korma,nonveg,"mutton, yogurt, cashew paste",411.3,29.4,7.2,29.1,No
+Palak Paneer (Tandoori),veg,"paneer, spinach, garlic, spices",412.11,21.73,33.21,21.66,No
+Toor Dal (With Rice),vegan,"toor dal, rice, tomato, spices",412.46,16.78,54.88,12.15,Yes
+Paneer Tikka,veg,"paneer, yogurt, spices",412.86,19.26,11.34,30.12,No
+Matar Paneer (Dry),veg,"paneer, peas, dry masala",414.29,15.42,19.83,32.11,No
+Vegetable Biryani (No Onion),veg,"rice, mixed veggies, mint, spices",414.39,10.44,52.68,13.89,Yes
+Rajma Masala (With Cream),veg,"rajma, cream, spices",415.38,14.76,33.89,25.48,No
+Vegetable Khichdi (With Butter),veg,"rice, dal, veggies, butter",415.56,11.92,45.87,16.04,No
+Palak Paneer (With Cream),veg,"spinach, paneer, cream",416.37,16.27,18.23,30.89,No
+Rajma (With Brown Rice),veg,"rajma, brown rice, spices",417.21,14.24,44.98,14.53,Yes
+Rajma (With Roti),veg,"kidney beans, onion, tomato, spices",418.21,21.33,53.78,20.62,No
+Paneer Tikka (Spicy),veg,"paneer, chili, yogurt",418.47,19.48,12.05,30.33,No
+Vegetable Biryani (Green),veg,"rice, mint, coriander, vegetables",418.76,10.63,52.47,13.97,Yes
+Masoor Dal (With Rice),vegan,"masoor dal, rice, garlic, spices",419.39,19.27,53.88,11.28,Yes
+Dal Makhani,Veg,"Whole urad, Butter, Cream, Spices",420,15,38,24,No
+Misal Pav,Veg,"Matki sprouts, Pav, Onion, Spices",420,12,58,16,Yes
+Chicken Chettinad,Nonveg,"Chicken, Coconut, Curry leaves, Spices",420,26,12,22,Yes
+Chingri Malai Curry,Nonveg,"Prawns, Coconut milk, Spices",420,28,10,20,Yes
+Kachori Sabzi,Veg,"Maida, Dal stuffing, Potato, Spices",420,11,58,15,No
+Badam Halwa,Veg,"Almonds, Sugar, Ghee",420,8,32,22,Yes
+Chole Kulche,Veg,"Chickpeas, Maida, Onion, Spices",420,14,60,16,No
+Badam Halwa,Veg,"Almonds, Sugar, Ghee",420,8,32,22,Yes
+Kathi Roll (Chicken),Nonveg,"Paratha, Chicken, Onion, Spices",420,22,48,15,Yes
+Paneer Butter Masala (Dry),veg,"paneer, spices, onion, tomato",421.23,17.34,29.52,22.47,No
+Vegetable Biryani (Spicy),veg,"rice, vegetables, ghee, spices",422.57,9.84,54.36,17.29,No
+Matar Paneer,veg,"paneer, green peas, tomato",423.54,15.66,20.37,33.45,No
+Chole (Tandoori),veg,"chickpeas, spices, garlic, tomato",423.71,16.12,49.17,22.84,No
+Chicken 65 Biryani,nonveg,"fried chicken, rice, spices",425.3,29.6,42.1,18.5,No
+Paneer Tikka (With Bell Peppers),veg,"paneer, bell pepper, yogurt",425.69,19.62,13.48,30.78,No
+Paneer Butter Masala (No Onion Garlic),veg,"paneer, tomato, cumin",426.15,15.88,22.13,32.64,Yes
+Matar Paneer (Spicy),veg,"paneer, peas, chili",426.18,15.71,20.12,33.67,No
+Vegetable Stew (With Rice),vegan,"vegetables, rice, coconut, spices",426.79,9.83,49.78,14.12,No
+Vegetable Biryani (Spicy),veg,"rice, chili, mint, curd",427.63,10.81,53.37,14.73,Yes
+Paneer Tikka (Tandoori),veg,"paneer, smoked masala",427.66,19.56,12.97,30.96,No
+Rajma (With Jeera Rice),veg,"rajma, rice, cumin",428.22,14.01,47.12,15.76,Yes
+Vegetable Khichdi (With Paneer),veg,"rice, dal, paneer, vegetables",429.34,15.42,44.59,15.28,Yes
+Paneer Tikka (With Mint Chutney),veg,"paneer, mint, chutney",430.23,19.77,13.92,31.06,No
+Butter Chicken,nonveg,"chicken, butter, tomato",430.3,27.1,9.4,34.5,No
+Matar Paneer (With Fenugreek),veg,"paneer, peas, methi",430.71,15.92,20.64,33.96,Yes
+Chole (With Jeera Rice),veg,"chickpeas, rice, cumin",431.52,13.45,49.28,15.87,Yes
+Vegetable Biryani (Dum Style),veg,"basmati rice, vegetables, curd, spices",432.74,10.92,54.21,15.43,Yes
+Paneer Butter Masala (With Green Peas),veg,"paneer, peas, tomato",433.79,16.05,23.28,33.78,Yes
+Paneer Butter Masala (Home Style),veg,"paneer, onion, tomato, spices",434.15,20.39,38.45,23.76,No
+Kootu Curry (With Rice),veg,"kootu, steamed rice, coconut",434.89,11.42,48.96,14.73,No
+Matar Paneer (Tandoori),veg,"paneer, peas, roasted masala",435.88,15.87,20.43,34.09,No
+Matar Paneer (With Cashew),veg,"paneer, peas, cashew",437.35,15.98,20.86,34.21,No
+Mutton Biryani,nonveg,"basmati rice, mutton, saffron",438.3,29.1,40.7,22.4,No
+Vegetable Biryani (Homestyle),veg,"basmati rice, vegetables, curd",439.42,11.09,53.86,15.61,Yes
+Chicken Tikka Kathi Roll,Nonveg,"Paratha, Chicken tikka, Onion, Spices",440,26,48,14,Yes
+Paneer Butter Masala (With Fenugreek),veg,"paneer, fenugreek, butter",444.62,16.21,22.74,35.03,No
+Mutton Rogan Josh,nonveg,"mutton, yogurt, spices",445.9,27.5,5.2,36.1,No
+Vegetable Biryani (With Soy),veg,"rice, soy chunks, spices, curd",446.73,13.92,54.48,15.02,Yes
+Vegetable Biryani (With Raita),veg,"rice, curd, vegetables, onion",447.39,12.67,56.21,17.84,No
+Matar Paneer (With Cream),veg,"paneer, peas, cream",448.44,16.21,21.35,35.78,No
+Kadhi Pakora (With Rice),veg,"gram flour, yogurt, rice, spices",449.78,16.84,55.61,18.92,No
+Chole Bhature,Veg,"Chickpeas, Flour, Spices",450,15,60,18,No
+Vegetable Stew (With Idiyappam),vegan,"vegetables, idiyappam, coconut milk, curry leaves",452.14,9.78,53.16,15.87,No
+Vegetable Biryani (Tandoori),veg,"rice, smoked spices, vegetables",452.17,11.47,54.72,16.02,Yes
+Paneer Butter Masala,veg,"paneer, butter, tomato",458.28,16.27,22.45,36.89,No
+Vegetable Biryani (With Paneer),veg,"rice, paneer, vegetables, spices",459.21,13.14,53.76,16.84,Yes
+Yakhni Pulao,Nonveg,"Mutton, Rice, Spices",460,25,58,14,Yes
+Biryani Kolkata,Nonveg,"Rice, Chicken, Potato, Spices",460,22,66,12,Yes
+Seekh Kebab Roll,Nonveg,"Paratha, Mutton seekh, Onion, Spices",460,25,50,16,Yes
+Mutton Biryani,nonveg,"mutton, basmati rice, spices",460.3,29.6,51.3,17.9,No
+Paneer Butter Masala (Spicy),veg,"paneer, chili, butter",462.33,16.38,23.02,37.12,No
+Rajma Masala (With Rice),vegan,"kidney beans, rice, spices, onion",468.53,16.98,58.92,14.27,Yes
+Paneer Butter Masala (With Roti),veg,"paneer, onion, ghee, tomato",473.79,21.95,49.38,26.51,No
+Paneer Butter Masala (With Cashew),veg,"paneer, cashew, butter",475.86,16.79,23.85,38.54,No
+Vegetable Biryani (With Paneer),veg,"rice, paneer, spices, tomato",479.21,15.35,57.14,20.19,No
+Chicken Biryani,Nonveg,"Rice, Chicken, Spices",480,28,65,14,Yes
+Mutton Curry,Nonveg,"Mutton, Onion, Tomato, Spices",480,30,10,26,Yes
+Rogan Josh,Nonveg,"Mutton, Tomato, Spices",480,30,14,24,Yes
+Paneer Butter Masala (With Cream),veg,"paneer, cream, tomato",481.92,16.94,24.12,39.02,No
+Paneer Butter Masala (Spicy),veg,"paneer, tomato, spices, cream",487.6,22.1,40.92,28.31,No
+Butter Chicken,Nonveg,"Chicken, Tomato, Cream, Spices",490,30,18,28,No
+Kosha Mangsho,Nonveg,"Mutton, Onion, Mustard oil, Spices",500,34,12,26,Yes
+Nihari,Nonveg,"Mutton, Spices, Oil",500,32,12,28,No
+Chettinad Mutton,Nonveg,"Mutton, Coconut, Curry leaves, Spices",500,32,14,26,Yes
+Paneer Butter Masala (Fried),veg,"paneer, ghee, spices, peas",505.33,18.27,43.67,29.44,No
+Mutton Biryani,Nonveg,"Rice, Mutton, Spices",550,32,68,20,No
+Kanji Drink,Veg,"Carrot, Mustard, Water (fermented)"",80,2,12,0,Yes
+Thandai,Veg,Milk", Almonds, Fennel, Poppy seeds," Sugar""",260
+Vegetable Pakora,Veg,"Besan, Vegetables", Oil,320,7,28,18
+Haleem,Nonveg,"Wheat, Lentils, Mutton", Spices,420,28,40,14
+Tomato Sauce,veg,"Tomato, vinegar, sugar, salt",90,1,22,0,Yes
+Green Chili Sauce,veg,"Green chili, vinegar, garlic, salt",70,1,15,0,Yes
+Schezwan Sauce,veg,"Red chili, garlic, soy sauce, vinegar",120,3,18,4,No
+Soy Sauce,veg,"Soybeans, wheat, salt",60,6,8,0,Yes
+Mustard Sauce,veg,"Mustard seeds, vinegar, salt",65,2,7,1,Yes
+Mayonnaise,veg,"Egg yolk (or veg base), oil, vinegar",200,1,2,20,No
+Barbeque Sauce,veg,"Tomato, vinegar, molasses, spices",120,1,25,1,Yes
+Mint Chutney (Dip),veg,"Mint, coriander, chili, lemon",40,1,8,0,Yes
+Tartar Sauce,veg,"Mayonnaise, pickles, lemon",220,2,5,20,No
+Pesto Sauce,veg,"Basil, pine nuts, olive oil, parmesan",250,5,10,20,Yes
+Alfredo Sauce,veg,"Cream, butter, garlic, cheese",300,6,12,28,No
+Marinara Sauce,veg,"Tomato, garlic, olive oil, basil",150,3,18,8,Yes
+Chocolate Cake,veg,"Flour, cocoa, sugar, butter",350,5,50,15,No
+Cheesecake,veg,"Cream cheese, sugar, biscuit base",400,6,38,25,No
+Brownie,veg,"Chocolate, flour, sugar, butter",380,6,45,18,No
+Apple Pie,veg,"Apple, flour, sugar, butter",320,4,48,12,No
+Donut,veg,"Flour, sugar, yeast, oil, chocolate glaze",280,5,40,12,No
+Croissant,veg,"Flour, butter, yeast, sugar",290,5,33,15,No
+Panna Cotta,veg,"Cream, sugar, gelatin, vanilla",310,5,30,18,No
+Tiramisu,veg,"Mascarpone, coffee, ladyfingers, cocoa",350,6,40,15,No
+Pudding,veg,"Milk, sugar, cornflour, flavoring",250,6,35,9,No
+Ice Cream,veg,"Milk, sugar, cream, flavor",280,5,30,15,No
+Macaron,veg,"Almond flour, egg white, sugar",150,4,18,7,No
+Cupcake,veg,"Flour, sugar, butter, frosting",270,4,40,12,No
+Plain Rice,veg,"Rice, water, salt",130,2.5,28,0,Yes
+Jeera Rice,veg,"Rice, cumin, ghee",180,3,32,4,Yes
+Ghee Rice,veg,"Rice, ghee, spices",210,3,30,8,No
+Veg Pulao,veg,"Rice, mixed vegetables, spices",230,4,38,7,Yes
+Peas Pulao,veg,"Rice, green peas, cumin",220,5,36,6,Yes
+Lemon Rice,veg,"Rice, lemon, curry leaves, chili",200,4,34,5,Yes
+Curd Rice,veg,"Rice, curd, green chili, curry leaves",210,6,32,5,Yes
+Tomato Rice,veg,"Rice, tomato, chili, spices",210,4,35,5,Yes
+Tamarind Rice,veg,"Rice, tamarind, curry leaves, chili",220,4,36,6,Yes
+Coconut Rice,veg,"Rice, coconut, curry leaves, chili",240,4,34,8,Yes
+Veg Biryani,veg,"Basmati rice, vegetables, spices",280,6,45,8,Yes
+Chicken Biryani,nonveg,"Rice, chicken, spices, ghee",320,18,42,10,No
+Mutton Biryani,nonveg,"Rice, mutton, spices, ghee",380,20,45,15,No
+Egg Biryani,nonveg,"Rice, egg, spices, ghee",300,12,42,9,No
+Fish Biryani,nonveg,"Rice, fish, spices, ghee",310,17,43,9,No
+Khichdi,veg,"Rice, moong dal, spices, ghee",250,9,38,7,Yes
+Curried Fried Rice,veg,"Rice, soy sauce, chili, vegetables",280,7,45,8,No
+Moong Dal Tadka,veg,"Moong dal, onion, tomato, spices",180,10,28,4,Yes
+Toor Dal Fry,veg,"Toor dal, tomato, onion, spices",200,11,30,5,Yes
+Chana Dal Fry,veg,"Chana dal, onion, tomato, spices",220,12,32,6,Yes
+Masoor Dal,veg,"Masoor dal, onion, tomato, chili",190,11,28,4,Yes
+Dal Makhani,veg,"Urad dal, rajma, butter, cream",300,12,34,14,No
+Panchmel Dal,veg,"Moong, toor, masoor, chana, urad dal, spices",250,13,36,7,Yes
+Gujarati Dal,veg,"Toor dal, jaggery, kokum, spices",210,11,32,5,Yes
+Bengali Cholar Dal,veg,"Chana dal, coconut, spices",230,12,34,6,Yes
+Rajasthani Dal Baati Dal,veg,"Moong dal, toor dal, spices, ghee",270,13,36,9,No
+Sambhar,veg,"Toor dal, tamarind, vegetables, spices",250,10,38,6,Yes
+Rasam,veg,"Tamarind, tomato, toor dal, spices",120,4,22,2,Yes
+Dal Palak,veg,"Toor dal, spinach, spices",210,12,30,5,Yes
+Methi Dal,veg,"Moong dal, fenugreek leaves, spices",200,11,28,5,Yes
+Lauki Chana Dal,veg,"Chana dal, bottle gourd, spices",220,12,30,6,Yes
+Malai Kofta,veg,"Paneer, potato, cream, cashew, spices",320,9,28,18,No
+Lauki Kofta,veg,"Bottle gourd, gram flour, spices",250,7,22,12,Yes
+Nargisi Kofta,nonveg,"Egg, minced mutton, spices",380,20,18,22,No
+Shahi Kofta,veg,"Paneer, potato, dry fruits, cream, spices",350,10,30,20,No
+Paneer Kofta,veg,"Paneer, potato, chili, spices",300,12,28,15,No
+Mutton Kofta Curry,nonveg,"Mutton mince, onion, chili, spices",400,22,20,25,No
+Chicken Kofta Curry,nonveg,"Chicken mince, chili, onion, spices",340,20,18,18,No
+Fish Kofta,nonveg,"Fish, onion, green chili, spices",320,21,15,14,No
+Beetroot Kofta,veg,"Beetroot, potato, spices",260,6,28,10,Yes
+Palak Kofta,veg,"Spinach, paneer, potato, spices",270,9,25,11,Yes
+Cabbage Kofta,veg,"Cabbage, gram flour, spices",240,6,24,9,Yes
+Raw Banana Kofta,veg,"Raw banana, gram flour, spices",250,6,26,10,Yes
+Mix Veg Kofta,veg,"Mixed vegetables, paneer, spices",280,8,30,12,Yes
+Kashmiri Kofta,nonveg,"Mutton, fennel, ginger, yogurt, spices",390,22,20,24,No
+Stuffed Dry Fruit Kofta,veg,"Paneer, khoya, cashew, raisin, cream",370,10,32,19,No
+Cucumber,veg,"Cucumber, water, fiber",16,1,4,0,Yes
+Tomato,veg,"Tomato, vitamin C, lycopene",18,1,4,0,Yes
+Carrot,veg,"Carrot, beta-carotene, fiber",41,1,10,0,Yes
+Onion,veg,"Onion, sulfur compounds",40,1,9,0,Yes
+Radish,veg,"Radish, vitamin C, fiber",16,1,3,0,Yes
+Beetroot,veg,"Beetroot, natural sugar, fiber",43,2,10,0,Yes
+Lettuce,veg,"Lettuce, water, fiber",15,1,3,0,Yes
+Spinach (raw),veg,"Spinach, iron, vitamin K",23,3,4,0,Yes
+Capsicum (Bell Pepper),veg,"Capsicum, vitamin C, fiber",31,1,6,0,Yes
+Cabbage,veg,"Cabbage, vitamin C, fiber",25,1,6,0,Yes
+Broccoli,veg,"Broccoli, vitamin C, fiber",34,3,6,0,Yes
+Cauliflower,veg,"Cauliflower, fiber, antioxidants",25,2,5,0,Yes
+Celery,veg,"Celery, water, fiber",16,1,3,0,Yes
+Mushroom (button),veg,"Mushroom, vitamin D, fiber",22,3,3,0,Yes
+Zucchini,veg,"Zucchini, water, vitamin A",17,1,3,0,Yes
+Kale,veg,"Kale, vitamin K, calcium",35,3,7,0,Yes
+Spring Onion,veg,"Spring onion, vitamin C, fiber",32,2,7,0,Yes
+Turnip,veg,"Turnip, vitamin C, fiber",28,1,6,0,Yes
+Sweet Corn (raw),veg,"Corn kernels, natural sugar",86,3,19,1,Yes
+Green Peas (raw),veg,"Green peas, vitamin B, fiber",81,5,15,0,Yes
+Gobi Manchurian/Cauliflower Sabzi,veg,"Cauliflower, soy sauce, chili",150,5,20,5,No
+Chili Paneer,veg,"Paneer, chili sauce, bell pepper",250,15,10,18,No
+Veg Manchurian,veg,"Vegetables, soy sauce, chili",200,6,25,8,No 
+Paneer Sabzi,veg,"Paneer, tomato, onion, spices",300,14,20,18,No
+mixed vegetable Sabzi,veg,"Mixed vegetables, tomato, onion, spices",180,5,30,6,Yes
+Aloo Jeera,veg,"Potato, cumin, ghee",220,4,35,7,Yes
+Aloo Methi,veg,"Potato, fenugreek leaves, spices",200,4,32,6,Yes
+Aloo Palak,veg,"Potato, spinach, spices",210,5,34,6,Yes
+Aloo Gobi,veg,"Potato, cauliflower, spices",180,4,30,5,Yes
+Aloo Baingan,veg,"Potato, eggplant, spices",190,4,32,5,Yes
+Aloo Capsicum,veg,"Potato, bell pepper, spices",200,4,34,6,Yes
+Aloo Tamatar,veg,"Potato, tomato, spices",180,4,30,5,Yes
+Aloo Beans,veg,"Potato, green beans, spices",190,4,32,5,Yes
+Aloo Matar,veg,"Potato, green peas, spices",200,5,34,6,Yes
+Aloo Chole,veg,"Potato, chickpeas, spices",220,6,35,7,Yes
+Aloo Kurma,veg,"Potato, coconut, spices",250,5,30,10,No
+Aloo Bhindi,veg,"Potato, okra, spices",200,4,32,6,Yes
+Idli,veg,"Rice, urad dal, water",130,3,28,0,Yes
+Medu Vada,veg,"Urad dal, rice flour, spices",150,6,20,5,Yes
+Dosa,veg,"Rice, urad dal, water",160,4,30,3,Yes
+Masala Dosa,veg,"Rice, urad dal, potato, spices",250,6,45,7,No
+Rava Dosa,veg,"Semolina, rice flour, spices",180,4,35,4,Yes
+Onion Dosa,veg,"Rice, urad dal, onion, spices",200,5,38,5,Yes
+Paper Dosa,veg,"Rice, urad dal, water",140,3,28,0,Yes
+Set Dosa,veg,"Rice, urad dal, water",150,4,30,2,Yes
